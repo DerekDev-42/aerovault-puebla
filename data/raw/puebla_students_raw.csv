@@ -1,0 +1,801 @@
+student_id,edad,genero,municipio_puebla,zona_territorial,es_foraneo,fuente_ingreso,ingreso_mensual_mxn,meta_ahorro_mxn,gasto_acumulado_dia15_mxn,total_gastado_mes_mxn,gasto_hormiga_real_mxn,estado_riesgo_fin_mes
+4a9693c9f100693d,24,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,3587.94,497.19,6575.69,13274.76,721.48,2
+bfa7f31aa26e654f,19,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6891.14,1043.78,15506.4,28497.62,1864.32,2
+eeeeb876c0a706b0,22,Masculino,Tehuacán,Urbano,0,Beca Pública,2885.38,679.22,13830.49,23675.9,1471.06,2
+25b1995f2519f8bf,19,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5590.63,1140.32,7460.8,14407.81,962.13,2
+024a15dcd1584a02,26,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4757.71,1138.99,5230.36,11277.73,4943.27,2
+ce710bb624781983,22,No Binario,Puebla Capital,Urbano,0,Apoyo Familiar,4636.23,1077.39,8018.71,17286.94,1100.79,2
+a3e07ccabf5ddeff,20,Masculino,Puebla Capital,Urbano,1,Beca Pública,3690.97,647.08,18427.64,31067.65,406.96,2
+f26fa94f4e7ca4d4,22,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6551.03,1077.11,3177.81,6874.59,1170.63,2
+dd02b0d9a05304dd,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4483.58,778.25,7967.79,17485.67,3167.07,2
+888950f3a62d512b,25,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,4128.14,1014.39,3731.78,7187.76,2267.77,2
+97f99acd599ee072,23,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3006.81,599.56,5543.25,11342.44,915.76,2
+b7f9471caa5d808f,22,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3347.06,604.75,5110.63,10899.97,788.11,2
+eeed83f9c0ba7ed6,20,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4770.43,865.34,14832.35,25259.37,1534.15,2
+02e5ec8f9e94b1b8,26,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7005.56,1292.62,10385.67,19320.34,1422.6,2
+c38317d3b8664c2c,24,Femenino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),7627.71,1542.23,6161.56,10977.3,1125.16,2
+a1396c238ce226ef,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),5760.69,1015.06,4683.69,7983.83,1789.96,2
+69d4a011f3ede74a,22,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,4355.34,927.58,6420.37,11649.6,3750.2,2
+d8862c6577ae5c55,18,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7713.17,1488.36,6594.67,11809.03,1897.82,2
+2f18113d0231e088,22,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5666.81,996.51,7226.99,15134.21,1387.98,2
+9503a6999cd83eaf,18,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),9562.01,1640.87,7714.75,16714.67,1165.38,2
+9e7393a6e5416c3e,18,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,7052.61,900.57,10464.27,17505.82,1109.82,2
+6af1953180f31309,21,Femenino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),6557.4,1428.04,,18163.91,56.6,2
+49cbb26a9cde3996,19,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,4985.53,1044.69,5517.09,11945.57,2320.29,2
+5a379355b9a27212,21,Masculino,San Pedro Cholula,Urbano,1,Empleo Medio Tiempo,5199.28,632.03,6043.78,11790.38,1676.37,2
+606efb0b6beb7730,25,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,5000.02,1210.27,5377.9,10023.05,1495.43,2
+d89e353b4c64abe4,22,Femenino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),6663.69,1030.76,13055.5,22716.31,1825.89,2
+eceecff755cc3821,22,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7398.21,1544.36,14200.94,25072.13,363.41,2
+00b32db4565f84c0,20,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),8178.51,1267.27,6560.91,11329.14,1546.11,2
+1fc99fab5570cd24,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2781.66,665.43,6547.81,12049.71,1607.62,2
+e09a703e13a24841,19,Masculino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5845.36,748.89,3348.38,6772.1,2307.18,2
+83e0e8bed74668b0,18,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7141.98,1337.17,,14218.23,1595.15,2
+ef0d58b0cfdff036,27,Femenino,Puebla Capital,Urbano,1,Beca Pública,2983.34,461.62,11739.94,20565.64,1538.7,2
+9c51634c2910eeb9,19,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3649.76,576.9,10886.04,22009.31,676.35,2
+c59163148da09680,25,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,5514.51,946.9,4705.83,8177.15,1556.59,2
+fa89d4facd29391e,26,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6335.28,1110.12,6752.48,13733.0,2407.61,2
+195770e3f50a6922,21,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6361.2,1050.54,16550.68,32928.48,1360.15,2
+79c366f278666f68,26,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,7598.52,1671.43,4973.51,8335.66,1654.25,2
+2ffc3a08c5b67d9e,21,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,3296.63,819.13,11974.51,25981.42,1585.76,2
+7fb7924dc64cb02e,25,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,5587.42,709.02,12762.2,21608.25,576.11,2
+8226744984ee5a8b,22,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,5150.67,1132.3,4344.3,8170.07,1048.48,2
+ea8c5c2419dd85a5,19,Masculino,Tehuacán,Urbano,1,Beca Pública,2653.63,348.48,16053.8,26173.8,2008.08,2
+efcdcac1c5d0534a,23,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,6764.36,1297.33,13206.85,22255.86,230.18,2
+dc868e330422e30d,19,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,4935.73,727.84,4937.52,10276.64,1308.52,2
+dd3b76d9e896a328,22,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4704.73,674.32,8151.4,17249.83,834.65,2
+90c7facf67c5f1de,27,Masculino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),6664.69,919.66,12206.36,24452.34,1175.6,2
+433e122ff5cd9d73,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4633.04,656.07,6694.6,10839.93,2767.7,2
+b71ed33cbcf50a99,20,Femenino,Tehuacán,Urbano,0,Beca Pública,3300.27,601.15,10893.2,22106.62,1987.37,2
+b1084bc3926e2ded,20,Femenino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,7280.08,1546.44,7004.17,14325.58,1747.18,2
+9f510982ec732021,25,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3029.6,648.17,3125.26,6706.43,4440.53,2
+99a447d0fe68d8b5,23,Masculino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),6427.76,1181.08,11239.33,20382.19,1834.7,2
+8a0b91b2031354d8,22,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6387.06,1405.12,8347.69,16210.38,3478.7,2
+712811a5bdb11d0a,21,No Binario,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),6404.49,1103.86,10620.9,20559.49,1993.01,2
+b00515d9404015b3,24,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7398.96,1517.23,11258.71,21301.53,2479.7,2
+f8953ab199c8cf84,22,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5621.04,821.38,12471.86,20476.35,1789.82,2
+8b0ef22af25c37b3,23,Masculino,Puebla Capital,Urbano,1,Beca Pública,3016.01,415.0,9497.73,19946.73,1534.16,2
+cf6b9086061bff2b,19,Masculino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,4858.83,767.16,16877.8,30748.15,40.05,2
+b3acd744f23dc598,21,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,2929.55,391.51,14005.51,25462.59,1144.09,2
+10afea53375d3970,27,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4637.09,1017.04,18521.93,32366.09,650.89,2
+498c06a4e95d8672,20,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,6354.62,1088.15,7237.66,14073.28,1093.83,2
+d1330118be89dba5,24,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,3450.62,855.93,20543.96,33816.64,461.96,2
+0e7590a6b267e8fa,20,Masculino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,6095.58,786.61,11511.5,25123.61,2908.89,2
+1c6bfbc58d0ce6b4,24,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),7356.08,1092.19,6006.66,12030.42,4680.86,2
+33b01cb6fa065e9d,24,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3910.61,586.1,5073.73,9521.51,3300.61,2
+d0dcf054d5a42967,18,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,3093.96,388.66,4221.34,7551.53,2075.87,2
+2e148b52c7a281b1,19,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4497.31,1087.19,8118.22,16828.3,2587.48,2
+b73521d983ac4f3f,26,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3951.98,931.17,7277.19,15971.23,3676.73,2
+695b173be39a5e2a,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,6977.25,1146.64,9005.76,17439.21,2412.18,2
+3920fd76f76233aa,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3616.38,635.83,11975.99,20647.46,2696.04,2
+c75000e3dc9ff489,26,Masculino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,3823.41,490.6,5512.46,8921.75,1984.93,2
+70a9893b94eef8df,26,Femenino,Puebla Capital,Urbano,1,Beca Pública,2992.45,441.28,4523.39,7778.88,3084.46,2
+4e3c4d26725f5c72,23,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6598.15,1483.47,6319.66,10631.39,2990.73,2
+feb068ce5168288a,21,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,4201.04,701.1,12261.74,21190.46,2702.18,2
+2c7a7745d620566f,20,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3569.41,617.66,17485.13,30066.41,761.83,2
+cb92370afaf366a2,25,Masculino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,4874.99,689.9,19317.27,33839.56,1478.3,2
+9d32888b99693b1c,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,4039.58,772.06,13113.91,25998.98,2530.81,2
+9b45e8f689d0d1ae,27,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6272.69,931.47,16246.7,31991.31,1273.54,2
+341aa836bd5608ec,21,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5314.79,904.17,6460.69,14017.31,3338.35,2
+0d39ec84acec81c9,25,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5416.72,1116.89,11604.91,18914.82,1137.39,2
+bb698ae0aa6bf46e,21,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,2840.99,549.09,9168.43,19692.89,581.61,2
+2e933a3aee590706,25,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),4976.7,859.45,6296.28,12183.93,1022.77,2
+71e5130e2d6b8e15,27,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4474.19,902.87,8845.39,16461.53,881.47,2
+0dac17fa52164b1c,19,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6300.85,1019.08,9910.03,16041.44,1569.39,2
+37f6372bcd84897a,22,Femenino,Tehuacán,Urbano,0,Beca Pública,2890.71,688.0,2278.93,4101.76,3111.75,2
+d06334d5b2783ad3,25,No Binario,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,4710.77,783.78,10145.78,17096.09,643.39,2
+117ac87554448b55,18,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5566.65,1279.67,6956.01,11278.69,1990.67,2
+f49f4acbc1d4d34d,20,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,2740.94,398.45,5656.39,9405.23,2171.79,2
+4e3dbeece9b8f5bc,20,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,4914.06,1120.22,10836.95,23799.92,21.16,2
+0df0f987f2ec9520,20,Masculino,Tehuacán,Urbano,0,Beca Pública,3581.9,643.03,10184.79,18231.08,2496.12,2
+d9a1344bfad31a05,26,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),8184.42,1745.87,8314.86,14765.79,2612.7,2
+e1105b92ba4d7bef,22,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,7798.6,1564.11,5892.76,12196.42,2475.64,2
+d6280daaca6151d2,23,Femenino,Tehuacán,Urbano,0,Apoyo Familiar,4653.53,576.08,7548.87,14505.29,384.01,2
+21e257a7abea8571,21,Femenino,Atlixco,Semiurbano,1,Beca Pública,2298.41,544.71,,35833.24,598.77,2
+fa57695267550ab1,25,Femenino,Puebla Capital,Urbano,0,Beca Pública,3595.81,645.85,6507.6,10881.94,3961.16,2
+c12a206c9cc87903,25,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5973.32,1215.11,6728.25,10968.33,6130.22,2
+880084ef1457c0e8,25,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,3871.02,625.91,7906.25,14848.32,851.74,2
+965a23919aff62de,20,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6569.78,1617.67,5827.38,10489.36,1039.14,2
+c7a2a4978b97bb58,24,Masculino,Puebla Capital,Urbano,0,Beca Pública,3526.9,482.01,12194.38,24165.29,1148.61,2
+c4c25362871842d1,24,Masculino,Puebla Capital,Urbano,1,Beca Pública,3123.37,754.21,13153.7,22746.68,756.39,2
+a8f0190ef309c8ba,26,Masculino,Tehuacán,Urbano,1,Beca Pública,2757.76,545.64,2902.24,5366.12,2434.71,2
+423fd59b97af142a,26,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3760.49,552.68,14697.34,28579.95,1491.11,2
+f2ac3adedc040456,23,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3299.17,737.09,13638.21,22499.0,384.02,2
+1ea29ce4d7581a0f,24,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3446.39,711.66,5322.11,10108.67,1985.28,2
+716ff816f2cf4b69,21,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4989.31,793.47,5669.02,11830.17,1329.27,2
+d60d65de257e7ed2,18,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4439.04,961.84,,22842.84,358.13,2
+8d2de3f6f45ae4cb,26,Femenino,Zacatlán,Rural/Sierra,1,Beca Pública,3207.54,686.61,7993.61,16414.64,1988.97,2
+d9bc35cbdde775ae,24,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,2834.37,702.65,11932.83,19675.38,674.01,2
+54fb1ee101c4658e,26,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,4484.35,601.12,3420.83,5851.13,2186.29,2
+b310ff5170e50dab,27,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4061.04,721.64,14329.29,24585.03,488.98,2
+fbecd031d0e5b100,25,Masculino,Tehuacán,Urbano,1,Beca Pública,3874.82,959.04,7353.97,14306.18,2154.78,2
+cc0e848d4e979f26,24,Masculino,San Pedro Cholula,Urbano,1,Beca Pública,2536.72,343.35,21115.63,41811.31,1006.81,2
+7c99c295cd1c6fd9,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),8015.17,970.68,8337.76,13881.85,3724.01,2
+fcbbe272413f5d62,18,Masculino,San Pedro Cholula,Urbano,1,Apoyo Familiar,5259.11,684.28,5440.49,11622.66,448.9,2
+ca1c7c9ad39bdc5a,25,Femenino,San Pedro Cholula,Urbano,1,Beca Pública,3477.59,559.86,5625.06,9634.31,433.23,2
+b9eb444bd0d6db18,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5909.24,832.57,9178.33,15127.54,3094.58,2
+3015c0ed7b2bd45e,19,Masculino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,5893.47,1186.82,10872.54,22113.66,969.76,2
+bba7526bbdd26fed,26,Masculino,Puebla Capital,Urbano,0,Beca Pública,2748.8,550.66,11466.23,22585.64,1559.11,2
+677c6e03603ae1d9,19,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5008.73,1013.22,12295.17,24720.74,2515.47,2
+ec6b547ea79f07c3,27,Femenino,Puebla Capital,Urbano,1,Beca Pública,3140.11,570.47,10427.83,18918.46,2538.83,2
+70265b32182a41b5,23,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4949.75,907.56,7277.15,12605.63,531.88,2
+140a0b507a5c90a2,18,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4999.65,913.61,8770.85,15635.52,643.95,2
+4b17e2fb9a5f9d4a,23,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,5003.28,902.19,13198.25,25126.59,1443.56,2
+6bbdf28effd35bbf,23,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4653.71,809.24,6093.78,10895.63,3280.04,2
+55fac12be117ffc5,25,Femenino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6204.84,861.48,10841.09,21536.32,864.59,2
+7251ccea50459239,25,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,2898.16,466.96,6182.13,13482.96,4079.07,2
+e8110aa472797a3f,19,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4274.62,991.15,12820.09,27690.52,3159.03,2
+a8c1b1df8676c7e3,22,Femenino,Tehuacán,Urbano,0,Beca Pública,3137.94,652.09,16094.26,27777.16,906.16,2
+1482b8406e33d384,20,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,7236.11,1480.21,11010.02,21380.35,761.87,2
+2c41f73ae3f38326,26,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4842.37,1084.23,11321.87,18983.3,106.74,2
+2e6dadb77a099e8e,22,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5421.73,798.56,12965.22,28443.8,959.08,2
+53257ba00b05ef86,23,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,5390.13,781.6,5599.1,9060.08,1410.29,2
+20faf2aafc9026bc,23,Femenino,San Andrés Cholula,Urbano,0,Apoyo Familiar,5274.3,1040.99,9368.85,16649.85,2637.01,2
+c36c338e0d490d61,20,Masculino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),8940.35,1804.3,7109.12,14270.42,4924.37,2
+76cf127114fe7eba,24,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4021.36,843.08,5163.39,11442.73,2494.56,2
+9da264605182a53c,26,Masculino,San Martín Texmelucan,Semiurbano,1,Beca Pública,2991.58,526.17,3383.15,6851.15,1682.93,2
+f33adfc990eb5497,21,Masculino,Tehuacán,Urbano,0,Beca Pública,2782.06,633.68,8732.33,17221.43,153.46,2
+047b5c70146cf134,23,Masculino,Teziutlán,Rural/Sierra,1,Mixto (Beca + Trabajo),8107.05,1463.69,8073.8,16636.14,3117.15,2
+1095ad62d2293d2f,27,Femenino,Tehuacán,Urbano,1,Beca Pública,3750.14,934.26,4480.59,9267.71,1579.81,2
+6622bdb97a45733b,21,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,3728.68,927.73,8971.33,19098.96,1714.33,2
+dc53f798cc1376ca,21,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6289.57,950.5,4984.73,10527.65,1289.72,2
+981984c22919f7f8,24,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,8581.17,1137.11,10105.17,21370.35,1708.77,2
+a7b5672299459be3,19,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),8246.76,1318.39,13787.82,23221.77,515.59,2
+c5608a7596fa1ae2,25,Femenino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,5740.67,915.9,7884.57,14187.65,852.18,2
+60017a0dd0e775d8,24,Masculino,Zacatlán,Rural/Sierra,1,Empleo Medio Tiempo,8152.05,1326.15,12007.31,21665.78,223.59,2
+6e21f89f186d3da2,24,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2873.54,399.78,4386.97,9124.65,1449.46,2
+454d1d3741618608,22,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,2509.59,403.82,6794.93,12399.07,1403.1,2
+8c20f70513e0c50c,26,Femenino,San Andrés Cholula,Urbano,0,Apoyo Familiar,2815.06,534.56,14970.91,28263.08,1553.06,2
+825a5976704e7c0a,22,Masculino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),5488.49,886.46,8272.2,15266.26,2384.42,2
+1f927684bd42a90f,23,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4156.87,787.92,3450.99,5660.23,4511.04,2
+a1f1c13be098decd,22,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6689.43,935.12,7289.81,12005.78,2681.63,2
+9460795e3e57fd6b,24,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6213.13,879.25,8619.07,16512.32,1795.37,2
+446b8fdaa9a99c28,25,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,2607.42,633.07,4880.78,9568.49,2254.7,2
+36e84057be07edcd,23,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6318.1,1557.58,5020.36,10765.43,606.82,2
+18ba430af918490d,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5090.36,809.95,8129.61,16569.26,2656.09,2
+679d060fcf848373,20,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3196.02,723.02,6763.64,12671.29,2782.14,2
+ccbe8a5e5040ab6b,18,Femenino,Puebla Capital,Urbano,1,Beca Pública,2841.01,465.85,9584.94,17293.28,3081.64,2
+752b49935fd60351,20,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,6571.14,851.01,6389.36,12276.99,620.3,2
+e50d5c833ac0af07,21,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,6764.38,1138.29,3620.04,6550.24,1519.01,1
+ad71eedafc407138,21,Masculino,Tehuacán,Urbano,1,Beca Pública,2946.96,679.57,7173.06,14097.09,313.86,2
+6331f1550071d388,19,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6330.33,1114.09,10869.39,21149.59,2837.19,2
+fbc0db285af7f5b2,27,Masculino,San Pedro Cholula,Urbano,0,Beca Pública,2708.36,429.75,11784.15,25472.55,282.14,2
+0fa7874af254c211,26,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,3720.02,686.35,13093.69,23778.07,2396.54,2
+3421f7e35c2bfacb,26,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),7644.98,1635.48,3996.42,8019.06,3199.36,2
+658e6f5cfe69ae56,26,Femenino,Tehuacán,Urbano,1,Beca Pública,2822.32,421.91,7911.07,13689.75,1969.63,2
+aac2327377732a3c,23,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,4847.15,656.09,5186.5,9968.93,918.62,2
+500e0c6a567cf8bb,21,Masculino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),6192.05,810.77,9198.88,19071.95,3216.96,2
+816d49a0b2fb8726,25,Masculino,Puebla Capital,Urbano,0,Beca Pública,3553.96,859.81,13974.42,26007.09,2337.46,2
+d403766579d9b606,21,Masculino,Zacatlán,Rural/Sierra,1,Empleo Medio Tiempo,6569.45,1057.05,12150.64,20221.53,208.53,2
+4d83cfc61adf6141,26,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4235.04,953.72,6104.86,11264.96,1689.88,2
+e751d0dd3b243946,22,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),5941.66,1480.9,3193.72,6391.29,2329.7,2
+26768271aa50ea35,25,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5715.51,896.59,11939.82,24192.09,2038.37,2
+42c0d104cb784ea5,23,Masculino,Puebla Capital,Urbano,1,Beca Pública,3557.97,735.28,4417.54,9211.71,777.94,2
+ee8bef0e8d4bda63,25,Femenino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),5458.98,732.59,5963.64,11313.58,1139.31,2
+be8a0720228d3e2c,21,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4799.22,749.74,2899.57,5109.84,2859.2,2
+0baba38ee0ec65a9,24,Masculino,Atlixco,Semiurbano,1,Beca Pública,3052.71,389.5,6165.01,11486.14,1263.1,2
+8d48f5f62bc3f535,23,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),7090.76,905.69,9704.16,16151.76,1251.43,2
+758d14d55e91a0ef,21,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5505.5,1334.97,6785.32,13124.32,1213.81,2
+7d8b26342486c030,21,Masculino,Puebla Capital,Urbano,0,Beca Pública,3828.64,600.37,16413.52,28652.97,1130.97,2
+f9045bf124f01305,22,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,6916.85,1219.37,4999.16,8323.71,2085.89,2
+33d830f4c552e353,20,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5023.77,738.15,3544.5,6837.92,2758.85,2
+92a3a527f6bc8f2b,22,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4891.54,817.74,12083.16,23488.63,1152.61,2
+3acb793a774947c7,23,Masculino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,3701.28,450.4,17561.05,37761.41,736.76,2
+6362224ccfdeeb2b,26,Femenino,Puebla Capital,Urbano,0,Beca Pública,3849.23,837.35,10201.34,18090.09,1374.23,2
+a6b59c3990062308,27,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3320.49,827.38,5508.21,11020.38,1776.89,2
+c8cdadc69baff551,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3762.0,884.04,15390.89,28388.01,461.81,2
+274ecf982cd52b58,19,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4074.29,783.9,14699.61,24611.86,1306.27,2
+296aab86ad35cafd,25,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,5687.72,1405.54,8638.89,14868.82,4117.91,2
+98745a9e6282f5a4,19,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,2986.01,713.11,10383.34,17658.5,2071.46,2
+2373cf50fee1df60,27,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,6501.62,831.78,7086.75,15286.93,771.4,2
+f324f9ce1fd1b07b,20,Femenino,Puebla Capital,Urbano,0,Beca Pública,2913.64,660.55,4081.21,7677.96,2309.25,2
+836db67a4b736616,27,Masculino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),5108.94,1087.76,15184.94,29304.67,644.59,2
+b7b2d3e8c0682068,20,Femenino,Zacatlán,Rural/Sierra,1,Empleo Medio Tiempo,5712.72,1387.67,7121.07,14047.93,1408.38,2
+e2d9e36348878d4a,23,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,3050.44,654.16,7914.65,13008.81,3453.19,2
+b6f51223fdacab09,23,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),5659.38,1089.56,5548.5,11031.81,1976.14,2
+fb8bd23e8203602f,26,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3227.79,657.89,9562.23,16384.62,2907.1,2
+fec331e2cedb4deb,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2637.25,356.75,11039.12,18814.1,565.87,2
+0372eed83c702e53,19,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),8394.85,2092.56,15401.05,29522.29,1289.2,2
+4c09646584c28e14,24,Masculino,San Martín Texmelucan,Semiurbano,1,Mixto (Beca + Trabajo),6281.5,1181.38,5481.83,9617.8,1264.74,2
+c858da69ba841454,22,Femenino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,5076.48,1240.94,9233.5,19484.02,964.48,2
+becea604e9187da4,24,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,3177.83,530.23,5271.63,8848.36,2914.49,2
+b69cafca016c13a2,26,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,6303.37,1047.19,5949.85,11809.42,1901.47,2
+a41e05122e1f01c6,27,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,1933.03,346.8,7410.2,16146.37,2975.33,2
+49bf7bf5f9c2bbf2,25,Femenino,Tehuacán,Urbano,1,Beca Pública,3169.13,731.22,7463.6,14241.1,1074.88,2
+a05ec564e7955445,24,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,2884.3,715.8,2801.92,4974.98,2627.72,2
+d14390aa962a82f8,20,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4487.1,1059.62,12136.34,24748.63,1120.63,2
+3516cf0976f1934b,26,Masculino,Tehuacán,Urbano,0,Beca Pública,2982.77,717.74,,6175.91,2533.9,2
+a976a8a5def80ba2,25,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5065.93,630.83,6190.45,10130.78,1427.75,2
+a8f6e81ffa611cf2,22,Femenino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,5914.59,1025.06,14347.29,27803.32,2437.69,2
+32506d74f708014e,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3578.82,672.65,18269.41,34605.39,227.27,2
+58fa6a481f8dd8de,18,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3201.82,695.23,10621.0,22412.68,466.0,2
+ff75fe4084e07391,26,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,6101.81,1434.7,8028.81,14610.86,1150.12,2
+a33e2072a2fd8132,21,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3012.95,744.67,6214.4,10499.87,2302.29,2
+d4aff2135e4a3bad,26,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,4725.31,821.5,7876.43,14971.53,1312.94,2
+36b54dbf835f42aa,21,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4884.81,1198.54,5400.58,9872.04,684.48,2
+a66d4da64fe99dfd,20,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,6023.46,1473.71,,19246.83,2372.68,2
+6a3b138c96d88e74,24,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,4305.95,1068.09,10531.5,21965.88,529.57,2
+dea847e82c7282c5,21,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3116.85,466.15,12518.83,24601.3,2636.76,2
+d336316c8470ded2,20,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5001.6,959.43,3796.08,7081.23,1784.36,2
+677b948df24daeb7,26,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,4637.04,831.89,21235.57,37640.12,27.48,2
+ecafe66b6a6accf9,23,Femenino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),5871.76,1382.73,7376.51,12737.43,1072.95,2
+132345ff43eb6844,23,Femenino,San Andrés Cholula,Urbano,1,Apoyo Familiar,4086.37,866.12,3626.38,6498.59,2977.31,2
+93b30b005a7187c3,25,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5718.76,851.39,9344.72,19648.34,1067.9,2
+a42d9377143631ea,27,Masculino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5680.74,1163.18,6713.5,14119.31,4130.75,2
+8664346851a68bb1,22,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7682.98,1704.82,8044.01,17663.0,3023.02,2
+efba769f78adee34,23,Masculino,San Pedro Cholula,Urbano,0,Beca Pública,3450.09,641.74,7792.56,14772.51,2080.77,2
+34b2d4c6ccdb93f1,27,Femenino,San Martín Texmelucan,Semiurbano,1,Mixto (Beca + Trabajo),7800.84,1433.33,9883.17,16623.81,4304.71,2
+005bfe72841d25fb,23,Femenino,Atlixco,Semiurbano,1,Beca Pública,3357.05,559.09,7736.16,13912.92,451.89,2
+ec27f4a593d4178a,22,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,5716.94,1153.67,18163.59,31017.15,0.0,2
+5c59c87208c2c920,23,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5856.93,1436.82,8981.53,15448.66,2055.89,2
+ac487b6f844a4f82,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3973.15,763.74,15735.84,27833.7,1623.52,2
+439decd8be22a281,24,Femenino,Teziutlán,Rural/Sierra,1,Beca Pública,2698.96,434.49,5196.79,8789.05,1038.69,2
+5cce8bda8e1f1f6e,20,Femenino,Puebla Capital,Urbano,0,Beca Pública,3360.55,481.98,10485.59,22423.8,491.03,2
+47aa5c126ba36260,26,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4315.95,859.7,11913.34,22827.1,3317.67,2
+6729806a6b1a382a,22,No Binario,San Andrés Cholula,Urbano,0,Beca Pública,3894.33,967.28,9813.21,21450.73,1691.21,2
+5679119e128e0a7e,23,Masculino,Puebla Capital,Urbano,1,Beca Pública,2899.68,654.54,6374.34,14067.18,1642.13,2
+6ce36e62c36d0fe7,21,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5293.95,763.48,14923.0,30293.2,307.85,2
+ffc796ce4bb8d7e2,25,Masculino,Puebla Capital,Urbano,1,Beca Pública,3400.31,724.09,8356.14,16815.35,1544.43,2
+e27ca313a94456ce,21,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6747.64,1554.53,11610.03,23719.77,1549.71,2
+9e478aedcf339fc7,22,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6245.91,1038.71,17607.52,29365.65,317.61,2
+462a78b9f8db4aa9,24,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,5281.24,1179.28,5644.99,12244.53,624.7,2
+ed610681fab39ad6,26,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,4612.31,807.46,5500.12,11662.91,2086.21,2
+1e0d816d20123630,18,Femenino,Tehuacán,Urbano,1,Empleo Medio Tiempo,5986.29,931.3,14193.45,23763.14,3053.91,2
+1a3c65bdbdaf1cc0,26,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5658.41,970.14,12960.9,24741.86,1751.49,2
+4c0dfa436df0df42,26,No Binario,San Martín Texmelucan,Semiurbano,1,Beca Pública,3421.0,477.1,3846.06,7821.16,2316.2,2
+26cf4496d6e6893d,18,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),8170.55,1771.13,15355.74,28346.74,1666.78,2
+b5125b4ef852e2fb,21,Masculino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),7845.99,1832.53,18140.36,29847.63,1177.3,2
+fb2508b608c5b510,18,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4618.38,769.09,7658.54,13331.19,1526.12,2
+a9b3ce82160bea97,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,4932.73,1092.28,13839.76,28848.67,399.82,2
+1889760baa9a097e,20,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,5046.64,1179.95,8915.41,14592.71,2057.99,2
+396a8951b5efe8e0,18,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),8089.55,1152.39,13022.92,28431.23,926.06,2
+9f67d8aa1eeffa6b,27,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7817.53,1510.76,13227.16,23427.02,588.89,2
+af5299604e74674e,26,Masculino,San Martín Texmelucan,Semiurbano,1,Mixto (Beca + Trabajo),6396.55,1201.57,15533.56,33016.17,806.35,2
+5e3c729b9a7d817e,19,Masculino,Tehuacán,Urbano,0,Empleo Medio Tiempo,6841.78,1419.8,10698.64,21872.05,128.11,2
+5b23d43355f7fc9f,18,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6572.36,1622.27,10400.87,19484.01,0.0,2
+defa9b915e8f189b,20,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5243.74,1140.91,16500.71,32609.46,1110.28,2
+4321f8e770c01123,20,Femenino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,3319.76,544.05,6222.44,11649.54,1700.97,2
+e982831a6d2402bf,18,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,6077.65,1180.83,8139.41,14455.04,1699.62,2
+6f2875c5682a7388,22,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7213.84,1170.12,6114.43,11437.85,798.16,2
+e6de89533e1b297e,22,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5069.56,637.26,9565.29,16513.3,1411.15,2
+6fe305d2d13c5197,20,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4654.26,992.16,3111.21,6343.19,1767.32,2
+8cbb9f78e0f5c74f,27,Femenino,Puebla Capital,Urbano,0,Beca Pública,4518.69,604.3,8564.27,17404.78,939.97,2
+136cd5cfb2995632,19,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5713.07,1252.98,16689.84,30133.3,663.0,2
+a87b977961844fb4,26,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7185.64,1730.94,17955.16,32345.9,1298.66,2
+d81e3828b4000536,18,Femenino,San Pedro Cholula,Urbano,1,Empleo Medio Tiempo,6351.42,1335.66,10347.25,16974.33,1933.36,2
+533e8c0ee6315a95,25,Masculino,Puebla Capital,Urbano,1,Beca Pública,3181.69,424.74,7171.12,13348.24,759.92,2
+84ce4c6e98ca186d,23,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),7345.07,1263.63,18952.03,42046.4,0.0,2
+312e396a84f85162,27,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3359.68,546.42,15584.84,26341.97,359.5,2
+8f9df6e269e6229b,19,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5187.46,1275.05,6116.69,12077.5,1444.54,2
+7b9d0781944711d3,20,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4364.58,684.57,5473.25,10491.22,3328.55,2
+4ba577ecc8b2e2fc,18,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,3818.04,576.21,7143.04,14692.39,1905.52,2
+1adbf7a76a286444,25,No Binario,Atlixco,Semiurbano,1,Empleo Medio Tiempo,8629.69,2040.17,7854.42,14804.18,857.35,2
+4b78a07f72e1c3b7,19,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,7060.79,985.8,6361.42,12717.21,2451.41,2
+3f91e66caf84380e,26,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4962.34,799.8,12158.03,21239.39,1873.19,2
+c6dcf9fa86bbac0c,27,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3092.12,519.34,12334.82,23513.07,1252.21,2
+8455fbe2ce84197f,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7921.17,1140.75,5989.37,11063.59,3666.84,2
+859dcf59d53965e6,20,Femenino,San Pedro Cholula,Urbano,0,Mixto (Beca + Trabajo),7269.92,1338.47,4926.77,10208.36,1188.78,2
+3cb6f12fd651e582,25,Masculino,Puebla Capital,Urbano,0,Beca Pública,3331.85,507.11,7707.01,13201.6,56.18,2
+138076d1b6d931de,27,Femenino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),8992.32,2113.82,4829.9,8511.09,1949.09,1
+f5457c8e9e8c8ef8,19,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7665.02,988.07,10746.9,19636.77,3211.56,2
+7564a1182b071671,19,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,3359.26,547.07,7061.45,14866.98,1541.53,2
+04f34702113f039c,23,Masculino,San Pedro Cholula,Urbano,1,Empleo Medio Tiempo,6101.69,767.74,9272.26,17070.11,2541.27,2
+b6e854b004e72672,19,No Binario,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5219.76,712.67,4078.66,8290.11,872.1,2
+e6d5a759c7737f1c,22,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4971.55,694.73,10918.14,22814.55,1324.27,2
+4400a5716c18a61d,23,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,5826.31,1350.7,5943.81,12508.74,2434.34,2
+53b93c747832c935,18,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,6730.02,1412.82,8405.66,15860.28,1443.76,2
+95039668e60eb9fc,22,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),7007.72,931.24,14876.15,27207.8,1548.73,2
+0b2174bfc8428ca1,20,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4675.76,817.73,18330.77,32914.54,1452.43,2
+2cef1930376f28e8,21,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,2405.41,353.99,3960.91,8490.88,3307.53,2
+c0cc0433ed26d86f,20,Femenino,Puebla Capital,Urbano,0,Beca Pública,4001.86,895.78,4619.76,9110.27,493.97,2
+e062319a2f03c120,21,Femenino,Tehuacán,Urbano,0,Apoyo Familiar,6765.07,1456.59,9928.47,16512.08,984.49,2
+e56e215d2960a5fc,24,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,3952.93,477.09,8549.28,17376.77,1826.78,2
+9f0f8d362b8000a0,22,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,3339.46,736.75,5374.12,10345.24,2918.26,2
+1bed47e631dbf44a,23,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),6920.69,1478.49,7646.13,13183.3,923.51,2
+a4c2ffee817ae9ea,20,Masculino,Tehuacán,Urbano,0,Beca Pública,2606.19,512.1,5839.12,12053.79,2859.1,2
+3a460e4bcdb56119,19,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,5337.72,935.4,6951.21,12568.51,1191.64,2
+e7a75d49b3cd1c3d,27,Femenino,Teziutlán,Rural/Sierra,1,Beca Pública,3040.34,497.64,3904.57,7292.94,1447.33,2
+733d6e2b781a2622,25,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,2984.2,430.43,16210.35,26253.33,1515.44,2
+3b430f16c39c7936,27,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),6667.15,1239.99,3364.74,6839.87,1992.44,2
+8b376c3f5237d767,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,7812.7,1015.52,3510.82,6397.89,2253.14,0
+9c3d2d9155842d89,21,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,5944.03,800.25,5806.72,12200.01,3056.36,2
+450b36981aec7af9,19,Masculino,Puebla Capital,Urbano,1,Beca Pública,2924.4,583.85,7356.75,12624.99,3166.19,2
+d18a24be1ab7acb2,18,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,7149.54,997.51,5104.99,9461.53,3621.26,2
+46b46388152d19aa,19,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,2714.48,600.22,7925.07,16572.97,597.35,2
+d40d8081fc507328,27,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,7136.3,1270.54,5273.7,10126.92,957.14,2
+5c22e0dad88ff409,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),5923.11,1149.76,6693.89,12942.65,3518.12,2
+499d3a657d2154e0,24,Masculino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),6065.48,851.13,11749.46,25543.35,1141.04,2
+fe274676caad3768,22,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2837.02,395.36,8013.45,16583.53,3851.39,2
+f8422795e14e95e4,22,Masculino,San Pedro Cholula,Urbano,0,Mixto (Beca + Trabajo),5067.95,639.07,4126.66,9015.3,2590.18,2
+6c3cbed3332bed57,24,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5291.93,759.12,6284.62,12184.89,3118.88,2
+31fdf9b8c29463f9,22,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3159.84,556.06,17139.93,29166.35,886.52,2
+29ea0076fc59ad4e,21,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4509.18,1053.23,5538.2,9344.96,568.5,2
+dcf4d1f3ec29d6f8,25,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,6298.72,762.97,9652.13,16762.74,1329.35,2
+24894b0645f0d596,18,No Binario,Tehuacán,Urbano,0,Empleo Medio Tiempo,4445.78,864.69,9853.53,20728.99,705.63,2
+c899f7053f2e3de9,19,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5720.08,1252.45,3750.17,7935.53,1167.01,2
+72414dbd5cded4df,27,Femenino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),5455.09,943.56,14422.6,26878.1,1973.3,2
+61df17dbeaf2ffae,23,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5901.32,1331.37,6043.77,12015.93,550.16,2
+369f79b28a0456aa,22,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,6135.14,1517.91,4104.69,7361.09,3457.43,2
+a45279315a5b8597,20,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,3962.86,572.48,10454.21,17099.32,161.8,2
+4cdcd0773eea87dc,27,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4937.26,733.69,9092.1,16907.98,1320.65,2
+fe9d68b3bb8ed8ae,22,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4135.82,607.73,2763.93,4631.29,2005.84,2
+2ca402561a3648c6,20,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2884.94,596.58,4479.93,9925.1,1165.36,2
+e16fd91ad4ddcd22,26,No Binario,San Andrés Cholula,Urbano,0,Beca Pública,3025.36,561.01,6022.39,10811.35,1467.6,2
+8b5bfbf0812b303c,27,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,8501.93,1297.26,14572.78,25748.96,1207.15,2
+8334415c48f6dca9,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7630.88,1907.37,6761.93,13545.22,3029.73,2
+47ccdd045e98e52e,27,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5592.36,900.11,3943.97,6825.33,4273.5,2
+07354409ae43a92c,27,Masculino,Puebla Capital,Urbano,1,Beca Pública,3056.09,634.33,3785.74,6330.83,3190.41,2
+07646e7095ee4ae9,22,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5311.14,1168.19,11397.65,19106.01,542.14,2
+582d3985939c2926,18,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,3880.51,523.64,7328.95,11871.46,3007.78,2
+d95c88b8fb18a8e0,21,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,3165.52,557.34,5729.94,11511.82,1586.35,2
+424028720553ee6a,22,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,5245.01,1052.17,8134.65,16901.2,747.31,2
+a96dcb120d2f8705,22,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5097.06,1049.51,7093.54,14176.42,1666.13,2
+538a1834e24aa4a7,18,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,4871.56,940.23,13856.1,25372.61,1011.6,2
+3df065f574c6129e,26,Masculino,Atlixco,Semiurbano,1,Beca Pública,3123.99,592.63,5467.09,9859.72,1449.26,2
+c6bb1da4dfde5f31,18,Femenino,Teziutlán,Rural/Sierra,1,Mixto (Beca + Trabajo),7555.93,994.97,5426.61,8810.28,1581.97,2
+bd1099794f55cd45,20,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5202.37,681.21,5689.74,11666.47,2405.82,2
+fa4fa5ae41e1bfca,24,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3953.01,928.94,12732.74,22836.43,1572.56,2
+3888fbdaf6fb6b37,24,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5305.49,891.45,8180.91,13556.03,1738.92,2
+5e18d11c4fede7d3,23,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,4289.81,885.06,4719.87,7828.92,1295.06,2
+8e4322e98cf1d67e,20,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6987.23,1246.34,13365.53,24535.61,1497.63,2
+5b972e5e3b597c86,24,Femenino,San Pedro Cholula,Urbano,0,Mixto (Beca + Trabajo),7555.36,1172.36,3637.23,8081.87,926.98,2
+e9848df7202d4737,24,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7677.08,1724.41,3896.41,7401.22,2236.58,1
+e2f620c89c349aa1,24,Femenino,Puebla Capital,Urbano,1,Beca Pública,3242.18,696.88,5869.24,10276.6,4057.13,2
+0384db56837ff014,18,Masculino,Puebla Capital,Urbano,0,Beca Pública,3003.83,609.9,7384.15,13686.02,1105.01,2
+3f4856c635d34ed9,24,Masculino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3207.4,481.23,9568.26,16081.2,317.22,2
+5965b5bb38e9a338,19,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3659.74,466.03,10057.64,19697.17,2006.89,2
+f639c15188f79146,25,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4690.97,987.4,4485.52,8707.3,1977.21,2
+27480b26dd8e4486,19,Femenino,Tehuacán,Urbano,1,Beca Pública,2369.64,421.07,6628.48,10739.43,1504.38,2
+db04ebb2535ac2ec,23,Femenino,Atlixco,Semiurbano,1,Beca Pública,2925.35,368.94,7197.66,13117.94,2528.92,2
+499e2f36a711b2d6,20,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3166.21,674.22,20267.39,33626.27,478.93,2
+0ce1d35cd4afae00,20,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4725.72,971.77,6859.02,11289.55,1727.23,2
+0c96e21e7af4f485,22,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,3995.66,850.06,3367.38,6893.85,2219.32,2
+3c9b427e731d4564,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,7554.54,1827.48,12062.5,22527.35,1358.77,2
+f38408368af657a3,25,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,2616.62,551.62,3902.01,8357.49,1053.86,2
+eafb92744378fb78,22,Femenino,Puebla Capital,Urbano,0,Beca Pública,2305.8,318.54,22259.66,36026.71,817.28,2
+abe1a9a9d1bf042d,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5298.47,1063.7,9476.06,15811.64,3934.08,2
+e040d3f4c49f19c3,27,No Binario,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),8144.37,1023.31,5060.21,11240.55,2211.65,2
+ada0ade1d3d39a5f,26,Femenino,Puebla Capital,Urbano,1,Beca Pública,3476.13,737.96,10579.72,18385.22,878.42,2
+920235d787ef7cf5,22,No Binario,San Andrés Cholula,Urbano,1,Apoyo Familiar,5926.86,858.21,8081.62,17090.03,4024.23,2
+e39a8a7cad69bf56,26,Masculino,Puebla Capital,Urbano,0,Beca Pública,3402.36,807.4,9914.47,20020.72,2211.85,2
+669703c0c0d730b2,23,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4597.16,1121.58,13052.58,21677.59,837.91,2
+90471f9c54bbf4fb,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,3893.43,904.52,8248.65,17445.95,282.96,2
+d3875da09c6041bc,24,Masculino,Tehuacán,Urbano,0,Apoyo Familiar,3880.16,707.34,5471.33,10274.13,1336.23,2
+c64a9ef3cdd9f818,25,Femenino,Teziutlán,Rural/Sierra,1,Beca Pública,3086.39,746.32,7857.67,14836.01,2501.57,2
+c01d0c451dd0d6f8,27,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4544.63,574.89,12160.79,25322.92,2062.68,2
+7d5a6d2dc6e062b8,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7562.41,1077.05,10739.64,19495.1,2306.9,2
+55b2365172d01f75,24,Masculino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,2443.71,610.52,7371.89,14864.41,985.38,2
+b8f5d4f2f4838de7,25,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),6383.61,1175.49,8236.45,15370.01,932.02,2
+50055f0afa167307,25,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3913.69,974.06,8367.01,13617.5,3059.44,2
+a0222889ce4dec84,20,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3612.74,899.24,5886.49,13031.08,1108.5,2
+1c8dc93e2ba8e403,26,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,2936.08,539.08,15625.3,27058.74,1884.35,2
+d5d8ba6210c6c41d,27,Masculino,Puebla Capital,Urbano,0,Beca Pública,3256.43,468.84,10887.16,19073.7,1536.1,2
+f9fd967feb3f93ab,22,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6791.29,985.75,4889.35,8862.58,3575.84,2
+7f080a12b878dc4e,24,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,4854.13,734.16,9830.63,18227.22,1851.57,2
+7704d109f45dc687,24,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5468.95,1167.89,13770.43,23006.36,1466.25,2
+1616a627d468fa08,24,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,7465.35,1357.2,4381.33,9007.04,2245.39,2
+07b6804014345b2b,27,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),6654.17,1487.81,13227.21,27688.65,1162.6,2
+38fd3ee02a7ed008,25,No Binario,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),6328.19,1234.8,10930.55,18610.83,2296.35,2
+43351bf1c7341fac,26,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,5045.27,709.53,,14411.35,1951.64,2
+29b67999f6ec9988,22,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,3986.63,773.14,2482.77,4312.16,2385.43,2
+2d7dc0c63439753c,21,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,6580.71,1153.52,11627.27,23928.04,1004.05,2
+cfe36d9166391021,23,Masculino,Atlixco,Semiurbano,1,Beca Pública,3651.29,698.07,19281.67,36012.75,378.81,2
+1de92d5201fc2814,22,Masculino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),7393.75,1793.24,6353.03,13347.91,2860.41,2
+fb0efef833a22b9f,19,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,3731.19,688.88,12176.46,20005.72,557.84,2
+bd651ce5ee5a144c,22,Masculino,Puebla Capital,Urbano,0,Beca Pública,2123.66,393.89,6767.41,12439.46,1825.97,2
+afc0f5a3cb294c19,27,Femenino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),7704.58,1286.61,9007.96,19484.1,1085.72,2
+a619e1211965947d,20,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4173.42,903.87,9809.23,19812.51,1724.72,2
+60c6bdd1d7e98c31,23,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,3531.05,583.7,12430.71,23027.0,1628.92,2
+fc563643c6b0bb31,26,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3255.04,699.47,15678.22,27369.97,1891.99,2
+ee9ec4fe815b661d,18,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5989.56,749.37,8299.29,17404.99,359.86,2
+1971856508db3dd5,25,Femenino,Puebla Capital,Urbano,1,Beca Pública,2962.35,495.4,7754.51,13493.15,1048.4,2
+bf7761e811e70c82,19,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6896.36,1415.56,3959.26,8657.13,3616.32,2
+090ae4b7c258033b,23,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5554.73,844.97,3900.02,6548.11,1654.66,2
+41ea2cd7dfcf3c61,20,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4685.34,1164.22,,13139.4,3028.96,2
+069804de81f3aff2,20,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4758.18,870.85,6441.1,10454.97,2542.69,2
+45f74b6ac2352634,21,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6888.92,1636.87,3813.78,7242.34,4403.19,2
+5e36abe1eb6b7c37,22,Femenino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),5095.28,1090.97,10176.25,18854.3,3002.88,2
+33b316b078ee16b3,24,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,4772.35,956.15,4850.96,8866.82,1371.81,2
+145a8f8753c35bc7,26,Femenino,Teziutlán,Rural/Sierra,1,Mixto (Beca + Trabajo),5143.3,1208.6,8916.61,18135.68,932.74,2
+79dc5b673bc05384,20,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,7044.02,1373.36,4519.54,9955.53,2922.39,2
+71b4bab2744b3546,22,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6392.72,1253.92,13459.63,24892.99,306.5,2
+266184b9e7f58e0d,23,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),8786.84,1128.21,5770.86,11460.27,4253.41,2
+0bc788509165da79,18,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2831.28,551.77,6037.76,13212.15,5284.04,2
+739bf70f57eb72ec,22,Femenino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),6734.15,1282.78,1677.22,3724.62,2812.34,0
+596278d55b66fc73,26,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,6330.1,1011.81,4159.39,8506.87,1523.05,2
+6938c960460431c4,25,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3012.39,476.51,7720.18,16130.9,702.87,2
+813d4b2c05233566,20,Masculino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),5744.02,1330.77,4210.52,8731.49,1203.98,2
+37d70bb5653b15b1,25,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,5029.87,648.23,10835.11,18552.02,711.8,2
+e52e4cb1a2c020e7,18,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,5333.31,796.56,10251.44,18790.72,411.17,2
+79eb4270e55431cf,19,No Binario,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6634.03,1032.94,10971.15,21533.22,1820.7,2
+aefead219fe7d92f,24,Femenino,Puebla Capital,Urbano,1,Beca Pública,2895.07,555.24,5530.99,11964.16,389.15,2
+bbb2bdda2588281f,22,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,3744.15,491.66,6481.68,12674.24,316.8,2
+543638d4ba994440,19,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),7466.36,984.62,14460.34,24965.2,3453.07,2
+861b40e44ca33807,20,Femenino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4309.05,850.29,8659.82,15041.22,3430.42,2
+5062e28950159ee6,20,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5338.6,896.7,15253.46,25356.98,1742.83,2
+d40fe0bcffa6065c,27,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,6575.0,1204.18,12852.16,22255.75,1974.16,2
+284f8ba2d9178e19,21,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3359.39,618.22,8795.03,19156.68,2870.49,2
+37f1899096d5b78f,20,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5012.65,1001.26,7326.87,12041.56,1151.21,2
+6c64f54e7334ff8b,18,Masculino,Puebla Capital,Urbano,1,Beca Pública,3182.92,767.5,7549.34,12914.16,601.18,2
+7a5173775f4ada89,27,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,4960.17,665.66,6772.73,13492.03,159.61,2
+51d12a7d7d72bb99,20,No Binario,San Pedro Cholula,Urbano,0,Beca Pública,2827.25,515.95,7543.37,16496.64,1257.89,2
+f9818b0aef366179,18,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,6498.94,1237.52,9784.08,20490.32,833.6,2
+5c12bb7c0a28af4b,26,Masculino,Tehuacán,Urbano,1,Beca Pública,3237.74,442.69,5126.98,10375.99,3248.73,2
+bcd4affa95ef27b9,24,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,5237.14,1033.27,12036.42,21867.57,1265.85,2
+62e5e7e7e1870efb,18,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2892.05,418.65,11583.85,22794.43,302.37,2
+5a5bfc9114aa223c,20,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5493.83,1090.78,5839.01,9985.24,5419.35,2
+c753d59a99838282,18,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4673.31,671.11,4238.89,8403.2,2267.04,2
+9c9fde057d1e29a8,24,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5450.58,1091.86,6859.86,11546.35,1215.1,2
+9917827d8a81c3db,23,Masculino,San Martín Texmelucan,Semiurbano,1,Beca Pública,2687.05,399.15,5715.17,12227.29,373.1,2
+b117108a9f13d2e5,20,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,5125.89,833.59,20179.99,32995.05,482.14,2
+06f329fe71a4a494,21,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6081.87,1177.83,5845.61,10276.85,2151.28,2
+5cd42a467f7c6735,18,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5788.06,1409.16,6169.36,10663.33,2411.79,2
+674104cdbe5a3c48,20,Masculino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,6476.29,1315.81,13063.78,23259.72,553.02,2
+a318e3864db760db,24,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4137.37,653.75,10955.24,19555.54,927.39,2
+04890aa3d976b087,26,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,5861.39,958.56,13276.28,25930.13,209.84,2
+c934bf4794280d66,27,Masculino,Puebla Capital,Urbano,1,Beca Pública,3300.64,763.39,9857.0,16516.35,1379.2,2
+8ac5eeaf50646cf1,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),6101.47,1472.03,5969.79,9953.11,2604.67,2
+3509faf3a2b671b6,19,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,3197.21,435.22,6542.16,12416.2,541.42,2
+fca421ec3c7418c4,20,Femenino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),7415.5,1354.99,9952.41,19766.12,82.58,2
+139654f4e5ec41dc,20,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5617.96,873.85,8010.3,15851.71,3213.3,2
+857c877276e5b0c7,20,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,5107.3,1171.57,9929.58,18973.55,1596.28,2
+c2969eb1496a39a6,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3798.61,643.67,18862.3,36635.64,440.89,2
+f711156075f15aea,20,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,4311.93,751.64,14350.38,28747.45,422.28,2
+41d442b06896b80c,21,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5623.45,1142.44,12165.76,19643.65,1201.07,2
+d648f622cb6921d3,25,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3568.84,750.78,6413.55,11220.1,1497.38,2
+3cc22c9c4d20c92d,20,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3190.21,630.31,7071.15,13853.75,4148.73,2
+8e51f11ccf8e55a3,18,Masculino,Puebla Capital,Urbano,0,Beca Pública,3064.16,727.23,7211.6,12559.07,4321.23,2
+c7d9b193d94e2fdd,18,Masculino,Puebla Capital,Urbano,1,Beca Pública,2830.32,355.11,9401.22,18680.76,109.77,2
+a807bb08df416d96,19,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,3964.88,502.68,8462.59,15145.09,897.05,2
+4fb5279f3b61ba1c,24,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,5261.16,936.69,13519.39,24422.55,2480.19,2
+8781b5a0e50b552e,27,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5945.71,1283.96,2310.96,3960.6,2216.42,0
+51be82f5ffae0fac,22,Femenino,Puebla Capital,Urbano,0,Beca Pública,2604.21,374.65,6158.39,12074.45,3149.54,2
+c0488ff34bc4caae,24,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,4788.5,920.7,9941.41,17643.61,2413.65,2
+1f5f57864506a280,22,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3023.59,617.75,6026.63,13368.51,764.68,2
+f9051e04ba624cee,18,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3020.4,731.14,6912.69,14299.05,2632.58,2
+d4165bc4b344c985,23,Femenino,Puebla Capital,Urbano,0,Beca Pública,3348.8,607.44,10676.78,19044.4,816.51,2
+1cd1f32e4189dfae,24,Femenino,San Andrés Cholula,Urbano,0,Apoyo Familiar,5544.31,998.61,2824.78,6178.03,3336.33,2
+bfab65679dac7cdc,19,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,2733.06,466.07,4850.83,8779.28,1912.49,2
+0db44b73a0dea584,25,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4348.65,654.9,13574.66,25572.55,647.27,2
+b7e5ef5a74c97fca,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5019.74,1181.9,7842.25,17288.64,3376.33,2
+b03c56e2f426eaf4,20,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4192.02,617.64,5436.49,9769.56,3286.06,2
+684db4d19f262e9e,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),6356.39,1038.55,11577.02,24432.79,1515.74,2
+886e5d369a147d22,19,Masculino,Puebla Capital,Urbano,0,Beca Pública,2793.33,435.51,5091.16,8944.13,2242.66,2
+751f66dc45bbea2a,22,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,2802.02,573.94,6944.59,13584.05,2430.22,2
+b0ffa16745fa8c36,25,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,3138.58,670.25,13157.86,22473.16,1586.57,2
+5b4c141db0e99f7d,20,Femenino,Tehuacán,Urbano,0,Apoyo Familiar,3867.64,552.85,4291.47,9088.86,2349.99,2
+d11509810098acd2,20,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,5523.1,1164.72,5002.99,10822.32,1244.44,2
+7e6d92dff751c43e,27,Masculino,Atlixco,Semiurbano,1,Beca Pública,3647.14,498.09,10090.32,16774.11,2199.66,2
+3fefb9f38870b022,27,Masculino,Puebla Capital,Urbano,1,Beca Pública,3484.31,661.71,7889.93,16484.68,2417.01,2
+818b8a86928d6e26,25,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,4249.49,827.31,3295.35,7096.75,1364.22,2
+8f8848dd4a3199b1,22,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2771.34,495.0,13062.32,23134.67,1296.54,2
+997303f3722d56d7,21,Masculino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),7691.48,1700.0,5434.02,9042.78,1321.31,2
+b47208f4dfea3b46,21,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4225.45,868.86,7626.92,12997.59,1595.11,2
+d8ad1fc2de68b489,20,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,4990.59,744.05,2299.39,4268.15,1935.32,1
+5a033bce51baeff3,21,Femenino,Teziutlán,Rural/Sierra,1,Mixto (Beca + Trabajo),7795.56,1667.43,6389.22,11727.19,2402.45,2
+88b0308934f906b6,21,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,6550.44,1240.3,7326.43,14308.53,2154.97,2
+cc12d5062278f5ce,18,Femenino,San Andrés Cholula,Urbano,1,Beca Pública,2663.66,521.16,6205.75,11952.74,1899.11,2
+0b0488fed3fd12e4,22,Masculino,Puebla Capital,Urbano,0,Beca Pública,3588.33,616.08,5996.21,11649.56,2093.52,2
+5c76f27b238dba37,24,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,3870.01,535.23,7541.24,14273.78,1454.72,2
+a52d66f04d5827bd,22,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4460.26,1101.53,2535.29,4514.88,3167.65,2
+00e390e43200a1a8,24,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6615.07,1044.5,8167.79,14345.67,2283.4,2
+0f7f0711ad47aaa3,27,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,6035.65,1420.02,11297.95,22694.45,1583.57,2
+03ea46e4ebbaf6fc,24,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3237.35,588.0,9264.49,18895.34,2084.55,2
+3d6c60c40f8cd830,19,Masculino,Puebla Capital,Urbano,0,Beca Pública,2684.1,489.64,7146.67,12899.32,2677.44,2
+c50bbc646873b3da,26,Masculino,Puebla Capital,Urbano,0,Beca Pública,4052.22,887.83,3282.92,6107.03,1475.63,2
+89e0c7315e8af42d,25,No Binario,Puebla Capital,Urbano,0,Empleo Medio Tiempo,7421.71,1814.91,3608.06,7838.38,4202.21,2
+b3db90113a0d5c4c,21,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5398.63,675.71,5466.74,10617.2,2941.64,2
+211ff69a10da89c5,26,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5461.78,855.88,7799.57,12908.0,988.46,2
+9f19efa52f98f756,20,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,4229.08,539.19,5367.66,10141.95,2586.19,2
+cbc8bdc8709e3cbe,21,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,6279.73,1488.47,13186.91,28018.84,2251.52,2
+e44f73968b9d5eb5,25,Masculino,Puebla Capital,Urbano,0,Beca Pública,3204.27,570.41,6617.4,10904.69,2587.72,2
+e120957f10204eb8,21,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,6304.05,909.07,5765.74,10282.48,2328.85,2
+0180c99041e33b7a,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3240.65,727.96,11325.39,18484.88,1489.24,2
+35400dd70fdcf05b,26,Femenino,Puebla Capital,Urbano,0,Beca Pública,2957.16,442.86,7765.25,13857.7,471.55,2
+26a7ed51a672c2ef,23,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,3463.32,733.45,6307.99,12400.43,1605.1,2
+a71813f30fa69560,20,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4760.62,1131.2,11914.84,22362.3,609.71,2
+2d942b41ec12f72b,25,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5916.67,1261.7,8810.61,15805.97,2877.84,2
+0f85da3596dbe0ed,22,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),6173.39,933.93,2847.13,5144.15,2614.91,0
+930a6bbf3a606d27,23,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5930.79,885.18,5046.12,9350.08,2399.4,2
+c7c330d57a9e4dd4,26,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),5851.21,742.34,4573.87,7740.28,779.52,2
+11652fd24a8107f0,23,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,6215.05,1181.41,7405.82,13226.95,1565.94,2
+7a047651dad5ec72,19,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6355.49,1033.56,6601.12,11558.15,2471.96,2
+4eae05052ee44428,27,Femenino,Atlixco,Semiurbano,1,Beca Pública,3092.18,552.48,7956.06,12855.21,3137.1,2
+212c96155e7a646e,20,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3007.02,385.5,5909.59,11226.02,2200.59,2
+1fd4beb300cb874c,21,Femenino,Puebla Capital,Urbano,0,Beca Pública,3988.82,769.24,4625.59,7809.22,1485.09,2
+ff72fa0732504ae9,27,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,4861.2,1189.24,9167.82,17379.21,3747.11,2
+14d530a9fee9b1bf,22,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),9125.69,1124.7,8057.72,17007.99,4081.08,2
+bac59dd1a565d4ad,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,3063.35,447.3,9234.2,17432.88,1332.39,2
+960667404f71a7c0,26,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),7632.23,1360.76,9087.8,16716.71,1190.46,2
+99626ede4578c873,26,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,5121.96,1191.64,12232.65,26666.99,159.15,2
+0cfebfc8c7f3ce5e,20,Masculino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,5884.85,1361.73,4514.11,9511.21,931.85,2
+236167a70e53ee0f,18,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,5516.62,1336.76,3267.34,5636.91,3722.86,2
+4f4d9eec5a2e9644,21,Masculino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3673.72,446.83,,14973.02,3915.87,2
+d3716132839ecee2,27,Femenino,Puebla Capital,Urbano,0,Beca Pública,3220.97,520.03,11481.22,19116.86,3503.96,2
+abc7e4066bd5c28a,23,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,6480.56,849.26,,21325.19,1022.97,2
+1060c06d1846b32f,18,Femenino,Atlixco,Semiurbano,1,Beca Pública,3262.19,630.84,10437.65,19477.44,2369.0,2
+39a6a0630298f10f,21,Masculino,Tehuacán,Urbano,0,Beca Pública,3425.58,849.56,3472.14,6139.43,1309.56,2
+b87faa1f654a42ee,26,Masculino,San Andrés Cholula,Urbano,0,Beca Pública,2067.8,430.79,8738.37,15272.38,3241.07,2
+b3fadcabab01d2ff,23,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,5678.18,1268.66,14381.47,23603.75,2738.23,2
+5ed0e41c10238faf,22,Femenino,San Andrés Cholula,Urbano,1,Beca Pública,2977.74,715.85,6313.1,12551.96,1287.21,2
+ddf92e69699978b7,23,Femenino,Puebla Capital,Urbano,1,Beca Pública,3734.66,899.74,11143.53,20042.91,3923.47,2
+ee54deb5af37d05e,22,Masculino,Tehuacán,Urbano,1,Beca Pública,3062.6,750.09,6386.22,13288.69,1589.55,2
+01049e7a9e3bd8c4,23,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,5801.84,1399.71,7569.14,15538.53,850.06,2
+33fedff0179c1ee7,19,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6965.01,1585.75,6286.51,10982.61,1064.81,2
+c93fa3d4a469e760,22,Masculino,San Martín Texmelucan,Semiurbano,1,Mixto (Beca + Trabajo),5423.69,1303.14,4570.85,8904.21,1474.5,2
+fbc645ece174a455,21,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,6556.42,1089.0,,9882.14,822.87,2
+cec703589c49adb1,23,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,2782.34,640.9,10080.06,17364.23,0.0,2
+fc74b2005552614d,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4633.11,713.38,10754.49,17865.94,771.24,2
+7d5201c21d63a72c,19,Masculino,Tehuacán,Urbano,0,Beca Pública,2701.97,335.3,8054.88,15125.94,4295.63,2
+4f9808dba28cf38f,27,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3355.99,802.21,4194.71,7040.14,1951.26,2
+8a03030810fab966,25,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,6528.36,980.28,9191.36,15842.7,1924.67,2
+cfdf694f6184ccf0,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5087.7,1264.53,12238.87,19889.23,1578.44,2
+7bab98b74417925d,18,Femenino,Tehuacán,Urbano,0,Beca Pública,3225.79,468.37,11197.45,18790.06,2726.9,2
+4f0b1d63b036b33a,25,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,5268.72,917.39,2851.15,5854.33,1295.34,2
+7e0a1fef2adbf43e,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,2971.71,599.76,6509.98,13954.56,2124.53,2
+f79120e0d44da2a3,23,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,6558.67,1342.38,14227.43,22971.08,1137.12,2
+afc060501fd63b37,23,Femenino,San Martín Texmelucan,Semiurbano,1,Beca Pública,3738.29,869.25,9146.65,17554.12,1897.69,2
+7f2829e4d4e3dd79,22,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4649.47,1096.88,10395.75,18624.83,2354.88,2
+501585399508a728,18,Masculino,San Pedro Cholula,Urbano,0,Beca Pública,3476.46,422.22,9480.18,20776.31,2022.12,2
+44053f426a048e18,24,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),9065.51,2040.79,19098.86,31051.45,2253.37,2
+c9b8642c93738691,22,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,2091.83,454.83,6158.61,12507.66,686.44,2
+7679f7e76c4ac989,25,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,7165.76,1654.18,12528.3,21404.27,1474.81,2
+6f28d0677e75949b,19,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6897.24,1155.58,9279.96,15688.32,2550.24,2
+9a0f4bcc0b35fb16,27,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6817.6,1093.62,10892.52,17983.44,1306.34,2
+90a5fa35692d7333,24,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5528.23,1184.39,15034.34,24466.61,897.18,2
+3dd2edc01c5404c2,25,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4715.33,574.46,5935.94,12488.52,1638.52,2
+8038446e2b5dd31b,26,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,2927.44,486.32,7283.83,14168.39,1849.72,2
+6f89d47bdaf79219,20,Femenino,Puebla Capital,Urbano,0,Beca Pública,3102.78,516.99,5984.21,11169.72,1976.89,2
+76f3ce1376be00e7,19,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4841.86,765.35,5891.77,10989.17,963.45,2
+c4ca892c77589056,27,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,4545.48,825.39,20571.94,35278.75,338.2,2
+dfd7fd02adde7de1,27,Masculino,Puebla Capital,Urbano,1,Beca Pública,3625.99,585.35,,11833.37,942.28,2
+95552b3b8e736fb8,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,4013.98,640.48,5422.91,10112.69,1556.78,2
+dff75c847a5a81d5,18,Masculino,San Pedro Cholula,Urbano,0,Beca Pública,3083.56,588.06,17274.31,28667.47,2838.21,2
+4545b284d1a21d8d,21,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,4339.46,1023.3,4587.29,8341.34,1364.68,2
+76940060cf1c4c45,26,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,7071.95,954.39,13142.91,26634.01,1419.07,2
+03e16ed7df34f0b9,24,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6307.16,1412.48,11225.01,18226.98,525.19,2
+8d7570ab79e9e9e6,26,Femenino,Puebla Capital,Urbano,0,Beca Pública,3346.07,789.22,3688.85,7898.39,2813.88,2
+426ab7a7124c674c,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,1926.69,312.14,16884.56,33117.02,875.45,2
+5abb8b2640b2a5b9,22,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,6764.44,855.54,2021.92,4166.02,3266.15,0
+f47b63816e5bcb68,27,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,2834.51,685.89,9892.31,17248.96,1575.88,2
+04896fffac0d4b0b,19,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,4508.86,1048.34,20341.01,34318.06,474.42,2
+c8cd9745a0aea4a1,21,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3231.57,452.66,8975.64,19199.4,911.81,2
+0388c2ccdacfe9ad,26,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,5422.98,988.31,7896.44,15567.51,2738.01,2
+3005d1a3a7ed64f0,23,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,4948.25,986.54,7106.73,12797.22,1374.32,2
+8124e7c37d0f9543,25,Masculino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6748.04,1577.32,8314.69,16893.81,1029.41,2
+00c985144e4e1334,27,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5482.47,1027.92,8120.84,17537.7,1428.89,2
+404c0125be4cd29f,27,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,6584.04,1594.44,9105.46,19418.63,204.8,2
+8fec8e2f1cde90e7,22,Masculino,Puebla Capital,Urbano,0,Beca Pública,3145.14,414.44,10782.4,19101.31,2682.26,2
+5c5ab82a9672328f,26,Masculino,San Pedro Cholula,Urbano,0,Mixto (Beca + Trabajo),6698.02,1307.65,10206.22,21164.34,817.41,2
+4ed349386d673130,18,Femenino,Teziutlán,Rural/Sierra,1,Beca Pública,3430.43,827.34,3792.57,7119.09,2564.91,2
+08308a1fe9546bf8,21,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,4299.68,903.07,7404.11,14133.54,501.43,2
+2e48402dff265958,22,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5305.43,898.48,10343.06,20401.58,539.25,2
+9bdbfa83c3c3337a,20,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,7185.91,1198.24,6532.01,13785.65,950.41,2
+65600179af11f1ad,19,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5068.93,1180.93,2474.0,4929.53,2492.71,1
+50f5a1560b38fb8c,18,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,4000.3,938.11,4544.67,9412.24,2039.95,2
+d71f426ea1b8913a,21,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4404.64,556.54,13461.94,28153.41,1832.44,2
+910cd925e221337e,27,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5925.59,1053.18,3709.74,6148.73,4488.91,2
+0fc082375de0e633,18,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4960.48,720.3,7308.18,14419.37,1360.49,2
+792273d282367007,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,7944.85,1872.18,8297.7,17477.02,1442.1,2
+dfae5532dc75a5cc,18,Masculino,San Pedro Cholula,Urbano,1,Empleo Medio Tiempo,6567.65,1190.95,5899.08,10711.09,892.97,2
+a55a58f3857a7680,21,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,4094.09,622.07,7457.79,15904.71,2211.07,2
+218c791355ca1a62,23,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,4280.53,890.0,7449.93,12280.82,2478.58,2
+654e856333a4ab12,23,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),5026.44,756.6,12425.62,27384.28,656.98,2
+203cd4c1635fc961,24,Femenino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),5791.39,1399.58,8596.79,17635.52,1888.96,2
+eaae772071a80b0e,19,Femenino,San Pedro Cholula,Urbano,0,Beca Pública,3138.16,723.46,7837.95,13377.47,3245.63,2
+c606389b9f85c6b6,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,3414.94,621.18,4612.77,8418.61,2641.5,2
+377612e05c79e65a,26,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,3935.45,822.16,6789.96,12341.78,2813.18,2
+8fa503d93fe74fe4,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2204.03,528.36,3700.52,7659.64,1415.34,2
+81fb8532c3b7caa0,23,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,3635.69,456.79,5815.42,9490.36,1419.99,2
+56977386ebdd3d97,18,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,3810.99,736.37,12961.1,23883.35,479.9,2
+a961604a2e1cf597,19,Femenino,Atlixco,Semiurbano,1,Beca Pública,2706.15,640.48,7080.52,12332.04,2891.07,2
+250eecf7bcc03c48,18,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,6297.48,1490.42,5833.25,12612.56,1163.82,2
+2fcc8fe70bd40dd6,18,No Binario,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5021.97,992.6,3340.96,6817.54,2642.07,2
+bc098a6a585f0fdf,19,Femenino,Puebla Capital,Urbano,0,Beca Pública,3775.77,834.36,7162.41,12920.92,1358.92,2
+ef16bac61a2148e7,22,Masculino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),7156.22,957.92,17378.36,29906.2,1120.66,2
+e49bc2e41467e8e2,19,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),5832.53,755.39,9394.19,19863.2,106.99,2
+7d2532f609a08e7e,25,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6651.52,1284.54,13530.66,24085.29,426.53,2
+87b72972d0c72f04,23,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,6478.63,1023.79,9416.23,16070.39,1789.33,2
+12eb71c4a0caadac,24,Femenino,Puebla Capital,Urbano,0,Beca Pública,3366.45,645.7,7325.2,12130.6,1614.62,2
+79197c5e9780e881,21,No Binario,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),6682.64,930.45,19727.39,33311.93,2072.33,2
+77b7cf9491bed927,23,Femenino,Puebla Capital,Urbano,1,Beca Pública,3502.49,757.5,2309.37,4114.88,2181.53,2
+c9a3864991f66946,25,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3902.48,587.36,5576.92,11996.28,1561.86,2
+50f8032976888eb5,27,Femenino,Zacatlán,Rural/Sierra,1,Beca Pública,2978.82,444.63,2046.43,3351.76,1499.15,2
+1768210a52121830,21,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5286.36,795.96,8124.6,17396.5,300.63,2
+7218f62d6f1b7bef,21,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,6013.89,1433.78,5779.83,10298.44,1943.67,2
+3a78d459cd95c629,25,Femenino,San Andrés Cholula,Urbano,1,Beca Pública,2840.33,459.3,8184.48,15434.76,3510.98,2
+29d72622b19fc069,18,Masculino,Zacatlán,Rural/Sierra,1,Beca Pública,3204.15,693.7,15157.44,28826.36,618.4,2
+9013601dc27b5ad4,23,Femenino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),6568.5,1226.24,3399.88,5710.58,2919.36,1
+ef52467cd46e4a17,24,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),8005.85,1653.46,8142.37,14359.32,1299.11,2
+bf97a6371ccb0881,25,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),7075.46,1732.24,5742.81,9892.05,1078.3,2
+cc991ca3cf961db6,26,Masculino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,3847.38,601.78,15471.91,29851.74,1190.12,2
+40f2f3bbab9357e1,26,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,4634.64,902.61,11355.56,24971.68,2917.42,2
+ee4a52dec7d18d8e,24,Femenino,Atlixco,Semiurbano,1,Beca Pública,3172.24,603.12,3634.23,6359.15,1884.79,2
+1566060fd29b4cfe,26,Masculino,Atlixco,Semiurbano,1,Beca Pública,3308.26,562.55,7677.65,16041.14,1232.32,2
+60d02140804153a3,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4817.37,942.65,10519.65,21837.96,882.82,2
+c45b45ee560b8cc3,22,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5718.24,918.37,11303.7,23165.95,2390.99,2
+e8963c96f0c262b4,18,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,4178.06,994.17,7301.78,15024.96,2371.88,2
+2ad54554512bb97b,21,Femenino,Puebla Capital,Urbano,0,Beca Pública,3389.38,498.31,10718.2,18329.14,954.13,2
+88dc4ecdbd5473f7,20,Femenino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),5500.19,746.96,11192.77,21754.93,1455.66,2
+246647de733797ed,18,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),3783.97,894.34,6883.75,12968.9,1291.77,2
+3a4d0ab1e1a004f6,23,Masculino,Puebla Capital,Urbano,0,Beca Pública,3622.63,510.18,16407.62,26669.68,1625.29,2
+c89581303bbf7a1f,18,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,4642.28,1157.01,8266.85,18314.05,3610.38,2
+7fbdb5d273c127b8,26,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6836.62,940.98,13657.53,24615.37,1002.57,2
+d461b29ede656010,25,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,6879.61,1209.87,10681.93,17754.07,2009.47,2
+31edec01bdfcc2a3,19,Masculino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),7523.34,1497.32,10956.51,21616.5,1536.72,2
+47873b93349b39ed,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3320.66,747.18,8437.31,14297.46,1086.15,2
+7a943e9f5ab0c2ef,19,Masculino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,7294.82,963.11,9216.18,18688.79,2375.59,2
+c00c7bbd245df655,22,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5068.62,1075.03,13463.63,23883.37,671.6,2
+50cf2b284ed21b48,24,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,4094.67,915.23,10656.86,22641.02,3629.21,2
+4acfd94d1db9f608,26,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6497.31,1507.67,9299.22,16260.22,2892.32,2
+76da32005392925b,24,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,4767.01,838.41,13257.34,27907.06,60.92,2
+91df2a21df6fe2cf,22,No Binario,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3337.32,422.64,4298.47,8898.64,3263.53,2
+ad5b983388f90d9f,18,Femenino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4450.15,898.03,14840.58,24032.41,815.53,2
+20091b789d976d96,26,Masculino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,5920.69,1425.17,7790.17,12826.49,1461.86,2
+d23754e34614815f,25,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,5540.23,915.32,4972.44,9907.08,673.2,2
+82be35189e6123ef,24,Femenino,San Andrés Cholula,Urbano,0,Apoyo Familiar,3082.83,572.29,11909.5,21676.16,1340.86,2
+defd6ddbc81b4548,25,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2781.74,440.94,10827.14,21034.99,2621.9,2
+9cbf6ff29616b384,22,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,3896.88,586.79,5403.97,9414.62,3291.45,2
+9a250d327d131be1,20,Femenino,Puebla Capital,Urbano,0,Beca Pública,3968.67,695.99,12963.7,23276.9,1780.8,2
+638c895a59cb12af,19,Masculino,Tehuacán,Urbano,0,Apoyo Familiar,5817.28,802.07,6273.95,12855.44,2222.42,2
+3f7f80f7e1aba9cd,18,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3384.64,720.59,14852.24,27327.08,1400.53,2
+c3d183dab7028a34,24,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,2652.88,611.66,17230.99,30995.55,1067.14,2
+09c6c451d0baf911,23,Masculino,Puebla Capital,Urbano,1,Beca Pública,3115.5,488.28,10574.85,21314.09,1945.8,2
+8472281cb534b351,18,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),3928.75,618.68,13018.09,23168.25,1645.49,2
+ad10b5995d638183,18,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5271.74,833.48,6492.15,14422.97,2524.93,2
+b4f261aee98db72a,26,No Binario,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,7794.88,1149.64,5562.95,11935.24,809.83,2
+197578a33de05334,21,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,4038.03,796.62,13328.86,22205.05,1053.12,2
+2b2a144bc92c5b03,22,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6092.46,1099.78,14704.34,27879.74,926.13,2
+8c6ead193f3c4e0f,24,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5683.84,1412.29,1162.49,2232.87,1768.11,0
+eb05945e7077da0c,26,Masculino,Puebla Capital,Urbano,0,Beca Pública,3531.91,450.93,10479.46,21761.24,1470.4,2
+b3b684ebe6a1470f,20,Masculino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,5038.3,783.4,14113.15,25072.7,2678.84,2
+fb0faadbd6f2d742,23,Masculino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,4774.45,816.5,6393.63,11141.96,611.11,2
+062a52ecd6ee270c,27,Femenino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,5903.44,1144.37,13584.01,26581.58,1212.23,2
+79bf8ac2c61d5f6a,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,3147.7,584.25,7571.39,12449.43,722.59,2
+5c00b30022ca78ea,22,Femenino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),7870.47,1255.77,12640.64,21830.07,1123.38,2
+e1ddfa28d563c551,19,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3741.25,916.66,9919.43,19578.11,1566.57,2
+6cc32a89517e9314,22,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,4346.34,675.27,2516.0,5323.31,2874.89,2
+f68c283d6416afa8,22,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,6207.38,795.3,3514.47,6366.39,5503.87,2
+ca59a20f8634cc8d,22,Femenino,San Andrés Cholula,Urbano,0,Mixto (Beca + Trabajo),9323.2,1551.26,10862.79,20513.24,2859.64,2
+62093eee12ccf3a9,22,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,6340.07,1194.55,15316.24,27535.55,1304.76,2
+aba47de8119d9074,22,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),6862.59,927.59,4916.77,10905.16,1118.01,2
+17817ddd09dde811,23,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4577.07,644.27,1874.82,3169.8,1195.0,0
+4d6b05333fb634f6,18,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4684.04,794.56,10533.8,18039.22,3133.15,2
+08c9878ddcf2c19a,26,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),10134.11,2234.71,8827.72,14900.39,2148.97,2
+64acffe9e7c6a349,19,Masculino,Tehuacán,Urbano,1,Apoyo Familiar,3753.5,739.12,15550.96,27349.46,940.44,2
+6cf02a2d38f84237,27,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6507.51,1364.61,6057.41,10293.42,2163.62,2
+6edcf400ece543be,26,Masculino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,5476.11,1200.91,15803.3,27152.47,1695.65,2
+da7b3069ad221d5d,19,Femenino,Atlixco,Semiurbano,1,Beca Pública,2781.9,587.17,18525.52,30045.88,1421.25,2
+a46c46f8dd2f0337,18,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4572.3,976.33,9772.94,19449.01,3021.68,2
+1c518cc7b4d35676,27,Masculino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,3493.49,695.07,11071.93,20387.74,2184.39,2
+f1ed3f822b589f26,27,Masculino,Puebla Capital,Urbano,0,Beca Pública,2702.61,629.43,7282.44,13709.58,766.48,2
+1bf15cc2276aaadc,25,Masculino,San Martín Texmelucan,Semiurbano,1,Apoyo Familiar,5095.67,671.13,6626.64,12916.16,934.89,2
+1174fdbbb24d1974,24,Femenino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,5120.28,693.53,20186.73,34693.89,1053.04,2
+399f977ce228839b,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7787.19,1340.41,6383.47,10527.28,1529.07,2
+d60deb3ea96e7881,22,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,3407.67,456.22,9973.54,19313.58,823.79,2
+e7e03227127bc83f,25,Masculino,Puebla Capital,Urbano,0,Beca Pública,2201.41,338.82,7273.63,13099.99,4908.41,2
+5eb233d5a268e2cc,20,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,5364.04,1206.54,10819.94,21624.37,2020.15,2
+b0e1b9074bcf0190,18,Femenino,Tehuacán,Urbano,0,Apoyo Familiar,4787.99,1122.34,5405.34,10993.97,846.26,2
+2ceeb6aa8d25bb42,25,Femenino,San Pedro Cholula,Urbano,0,Apoyo Familiar,7312.27,1343.57,6256.32,11432.15,1909.25,2
+ed323d9d3006da9f,26,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5315.94,1221.21,12924.21,25617.06,460.4,2
+758806c5da5bb724,27,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,5256.14,1064.26,3565.76,6129.57,3059.59,2
+82a484aa6da96750,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3529.93,874.48,19436.86,32397.85,344.1,2
+3475f606399f085f,26,Femenino,Tehuacán,Urbano,1,Apoyo Familiar,4667.77,603.16,14393.15,31760.1,72.72,2
+380138eda0213d2f,24,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),7028.59,1671.63,9040.62,19146.76,3013.0,2
+bc6b95fefb4d5c3a,24,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5249.61,1050.55,7030.19,14241.54,823.91,2
+e806436fb7f004c2,23,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,4304.22,582.95,9576.88,17111.04,2577.23,2
+89c8ac8cd5b61323,23,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),9326.18,2025.69,8423.84,17173.89,1080.61,2
+3190d98668d475b5,26,Femenino,Tehuacán,Urbano,0,Beca Pública,2702.55,502.24,3743.24,6315.53,2205.46,2
+992269dc9910a65a,19,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6205.45,1038.64,15021.82,26828.53,135.16,2
+464470646a49d756,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5707.52,1203.71,8589.49,17400.48,850.4,2
+bbd3395537a9eeae,23,Femenino,Puebla Capital,Urbano,1,Beca Pública,3535.06,597.76,10500.01,20036.79,22.3,2
+09a6cd0973dee033,25,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,2903.47,528.49,10911.81,18725.22,3912.12,2
+209ea71c2338ab8b,24,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,4251.13,813.77,5239.83,9969.02,3711.97,2
+0adfd6d252cb4f7d,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5213.39,1059.79,3425.12,6349.69,4112.29,2
+f687367131cd71ed,20,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,3097.64,713.9,9081.61,18470.33,761.05,2
+8ac9dab10bbce26b,18,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5594.31,752.58,17351.21,30858.6,1078.46,2
+db9c43c40ffd9edd,18,Masculino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,7224.93,1561.67,7761.5,12876.44,3238.53,2
+47067b6174b714f9,22,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,7339.41,1684.14,10608.49,19690.07,1407.56,2
+481ac4a599466a8d,26,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),8005.46,1308.01,11380.66,22277.41,614.59,2
+72c87e71089f3997,19,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6260.08,840.94,3429.36,5935.33,1864.85,1
+806b15823fe71793,20,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),4965.16,994.3,8679.12,16909.58,992.01,2
+02d973acb756e3be,21,Femenino,San Andrés Cholula,Urbano,0,Empleo Medio Tiempo,6589.18,1274.72,12123.24,24390.41,442.58,2
+705b010b679623cf,21,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,3103.03,530.83,5413.36,10902.68,1756.09,2
+9a86ff19f337adf9,19,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,5165.21,992.13,7951.03,14756.7,587.07,2
+1df1d406ba6f0d23,22,Femenino,San Andrés Cholula,Urbano,1,Apoyo Familiar,5472.92,1200.61,14335.42,24686.96,1988.9,2
+8555b88e05184846,23,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,7939.33,1981.69,7012.25,11705.32,3036.47,2
+b35bc28cf6e9b3d4,18,Femenino,Puebla Capital,Urbano,1,Apoyo Familiar,3057.28,394.31,15776.38,27576.44,1143.21,2
+c498e8dc436cfebb,24,Masculino,Puebla Capital,Urbano,0,Beca Pública,3014.11,368.34,5975.51,12960.63,1225.51,2
+fc81cc210edee78b,27,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,4725.24,912.87,4975.33,9219.69,865.57,2
+71a9b7a467e32b6b,20,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),5433.34,933.47,,11640.91,1505.96,2
+88e8ee1997f36b86,24,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,2941.91,494.66,2610.26,4868.28,1825.59,2
+dd25fc4ad876274a,23,Femenino,Puebla Capital,Urbano,1,Mixto (Beca + Trabajo),6562.81,1412.43,5453.85,8860.01,1467.77,2
+d56d6c72016cdc9d,27,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,4986.07,687.2,2586.4,4540.59,3924.03,1
+7ec99f294b11369b,27,Femenino,San Andrés Cholula,Urbano,0,Beca Pública,3307.33,706.72,11504.3,25256.74,1485.44,2
+df6787b47645d519,25,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4643.37,603.63,3428.75,6440.14,4171.37,2
+8c40c98158f15f19,19,Masculino,Puebla Capital,Urbano,0,Beca Pública,2796.72,650.24,10089.57,16566.13,605.32,2
+18ff4fa6e53198ce,24,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3723.38,699.21,17933.32,33491.6,864.6,2
+82a4bb2a248f2fa1,22,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),6256.94,759.09,8995.02,15944.92,2353.47,2
+be277010b0343c19,19,Masculino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),7457.21,1528.26,10863.91,19216.33,1024.2,2
+aa4c0f2f35818387,24,Femenino,Puebla Capital,Urbano,1,Beca Pública,3379.41,696.85,6269.36,12500.18,1621.19,2
+656d10b7f28d8816,19,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,5106.69,1193.2,4416.35,8732.95,1190.92,2
+ae8077ab37595d74,21,Masculino,Tehuacán,Urbano,0,Apoyo Familiar,6756.14,893.19,8015.9,14860.05,3817.93,2
+7c4e5e0cf4f1c100,23,Masculino,Puebla Capital,Urbano,0,Beca Pública,2290.82,552.03,,12417.64,2649.91,2
+46766bd12fb27b04,23,Masculino,San Andrés Cholula,Urbano,0,Apoyo Familiar,5342.19,1195.33,8426.65,16922.83,1412.94,2
+1575933ec7d6f006,25,Masculino,Tehuacán,Urbano,1,Empleo Medio Tiempo,5860.15,1160.23,9325.4,17446.85,1488.79,2
+0081890943ebf742,25,Masculino,San Pedro Cholula,Urbano,0,Mixto (Beca + Trabajo),7535.88,1585.0,7911.72,14537.49,2563.02,2
+0f3901c214b77636,23,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2768.58,402.2,7281.84,15818.3,2982.94,2
+ab095a34cb1f0b5e,22,Femenino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,5682.67,943.24,7681.09,16279.36,3949.39,2
+c9f9e569c88aa85c,27,Masculino,Atlixco,Semiurbano,1,Beca Pública,3633.46,769.61,12044.64,23071.35,1839.24,2
+e3890e8b1d17d06a,20,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),6986.79,1061.46,10765.28,19823.11,2192.43,2
+a2f1c411ba99325e,21,Masculino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),9066.08,1669.8,5628.64,12491.63,3139.32,2
+ce87e00afcf2930f,23,Femenino,Teziutlán,Rural/Sierra,1,Mixto (Beca + Trabajo),8663.52,1263.32,9263.4,16978.61,2223.16,2
+0e73342da809f59a,18,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,3734.96,904.43,7685.81,16450.46,1497.31,2
+311586ac7a84d167,20,Masculino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,4692.67,716.45,11943.73,23784.84,253.5,2
+88b53f1b1394b944,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2503.68,621.61,9718.83,19637.57,1248.72,2
+7c0b8e9c61a73319,21,Femenino,San Pedro Cholula,Urbano,1,Beca Pública,3417.33,454.55,9273.94,16396.3,1969.56,2
+01f919a5c360e711,24,Masculino,San Pedro Cholula,Urbano,0,Apoyo Familiar,6764.08,1338.94,6749.61,13471.96,1986.7,2
+0eae97dbc3d6a5c9,22,Masculino,Teziutlán,Rural/Sierra,1,Beca Pública,3583.98,791.95,10681.84,19381.14,3126.65,2
+e870f59e5fcf6c5a,22,Femenino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,4437.51,1027.95,3708.0,6785.35,2080.02,2
+850f393e0eb7f909,27,Femenino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,7738.9,1683.21,10599.18,22733.6,1984.7,2
+269056c4779e452f,23,Masculino,San Andrés Cholula,Urbano,1,Empleo Medio Tiempo,5846.97,1120.27,,13583.63,1828.54,2
+d9b6b09d3a5bac61,27,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,4412.57,681.83,6833.41,14645.56,177.01,2
+b93c36d9a4240134,27,Femenino,San Andrés Cholula,Urbano,1,Mixto (Beca + Trabajo),5741.81,721.62,6072.53,11439.17,721.69,2
+8fe92c6938866624,21,Masculino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),6308.73,823.1,15391.5,28609.07,875.37,2
+c0abb8d89aef5655,18,Masculino,Puebla Capital,Urbano,0,Beca Pública,3338.07,529.27,13480.65,23323.91,774.95,2
+a8f2a5ced121915d,19,Femenino,Tehuacán,Urbano,1,Mixto (Beca + Trabajo),7611.68,1662.55,9595.13,19203.64,2467.86,2
+87178ef7b52e968e,24,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),6155.84,950.8,9414.79,15682.86,2623.23,2
+a7e8eea89f4ab950,22,Femenino,San Pedro Cholula,Urbano,1,Apoyo Familiar,5454.9,1185.2,3303.01,6662.15,2512.53,2
+d691634573afcfcf,27,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,4795.87,775.67,7160.98,13789.35,1070.21,2
+3481d0efd72df761,24,Femenino,Puebla Capital,Urbano,0,Beca Pública,3507.09,441.47,6312.81,10519.43,1882.76,2
+0da74d1541323cd4,18,Femenino,San Pedro Cholula,Urbano,1,Mixto (Beca + Trabajo),8282.66,2043.5,9902.14,16815.52,3375.41,2
+d4a8045c6d00d7fd,26,Femenino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6203.15,1248.14,10486.85,17667.98,2633.02,2
+6f41714ba474cb0c,20,Masculino,Tehuacán,Urbano,0,Empleo Medio Tiempo,5131.57,883.8,3032.86,4970.24,2818.61,1
+112bc378359395b0,18,Masculino,Tehuacán,Urbano,0,Empleo Medio Tiempo,6476.55,889.28,10302.22,18859.86,845.13,2
+86654832906d241c,18,Femenino,Atlixco,Semiurbano,1,Apoyo Familiar,5198.58,813.04,8895.26,16716.04,689.58,2
+22b8c7a40a923650,19,Masculino,Teziutlán,Rural/Sierra,1,Empleo Medio Tiempo,6515.36,1449.23,8526.87,16144.39,4191.19,2
+216ae2eadf93675a,26,Masculino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6506.31,1321.84,7777.0,14198.12,3669.05,2
+620276bd01010e04,18,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5389.44,1084.46,10768.36,22030.47,262.57,2
+c26e16048fa2a70d,20,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5766.58,1402.57,10398.24,23008.39,343.51,2
+9cd944de75bdcb30,22,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Apoyo Familiar,4396.67,567.74,4998.3,8090.99,2230.79,2
+7b00bb046f26cb38,21,Femenino,Atlixco,Semiurbano,1,Mixto (Beca + Trabajo),6876.31,1200.15,8662.2,14783.82,1510.66,2
+e5e1dfde030f2cd8,22,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,5282.6,881.84,13497.0,27300.85,1003.32,2
+397bcfe20d6831c5,21,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2638.07,352.04,5294.6,11028.9,1042.74,2
+ff63635d2e7e0ed1,26,Femenino,Puebla Capital,Urbano,0,Beca Pública,3078.2,672.94,1446.8,2702.21,1989.46,1
+6c8d8e356737506b,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3622.95,456.42,5077.03,10646.73,546.0,2
+c4f609fab2294515,18,Masculino,Atlixco,Semiurbano,1,Apoyo Familiar,5934.17,1316.59,5761.5,11480.15,1633.75,2
+52d46abe2670e6fb,22,Femenino,San Martín Texmelucan,Semiurbano,1,Empleo Medio Tiempo,5414.45,1076.67,10693.59,18990.03,1843.52,2
+da12ff408ad73c50,22,Femenino,San Pedro Cholula,Urbano,1,Beca Pública,3509.11,706.01,11465.7,20302.32,2728.06,2
+e5f4a86d9686c13a,25,Femenino,San Andrés Cholula,Urbano,1,Beca Pública,3340.96,536.43,9314.17,16669.42,1382.65,2
+7dab6cfa51e86d0b,26,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3877.09,680.83,10108.4,19935.95,2846.02,2
+e4dc8afef12d7caf,22,Masculino,Zacatlán,Rural/Sierra,1,Apoyo Familiar,5651.62,858.87,4649.04,9601.48,2398.97,2
+6d136befbc142710,23,Femenino,Puebla Capital,Urbano,0,Mixto (Beca + Trabajo),8014.41,1643.94,7190.44,13849.62,2003.35,2
+265a038c70503d8b,18,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,3006.4,500.72,9313.88,17325.87,1194.82,2
+2d687db630b60487,22,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,5051.67,956.94,5008.41,9008.51,3651.19,2
+ac5e4704b2d373bf,27,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,5346.85,961.78,11930.79,19584.52,1346.56,2
+e78034c754946956,19,Masculino,Zacatlán,Rural/Sierra,1,Mixto (Beca + Trabajo),5220.15,1115.97,17819.38,31396.86,953.13,2
+7d680d3084540a0e,19,Masculino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Empleo Medio Tiempo,6029.53,1196.27,5827.28,9637.56,4727.04,2
+fd60188ae7ad07bc,24,Masculino,San Pedro Cholula,Urbano,0,Empleo Medio Tiempo,7874.84,989.34,9060.81,15016.33,1188.51,2
+0d964be56c4f9b91,24,Masculino,Tehuacán,Urbano,0,Beca Pública,2915.7,530.57,9053.11,15251.96,3071.94,2
+f77e4cdced7a743b,23,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,6779.0,952.98,6366.85,12525.35,776.18,2
+fe8e195e28358948,23,Masculino,San Andrés Cholula,Urbano,1,Apoyo Familiar,4064.02,790.19,5008.15,8489.67,1030.31,2
+db9b7f9e78337523,27,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),8230.41,1177.18,11038.79,19089.26,3370.73,2
+124f9593699beb04,26,Femenino,Puebla Capital,Urbano,1,Empleo Medio Tiempo,6794.17,1263.99,13792.98,23501.1,1007.53,2
+030ce14a00825867,19,Femenino,San Martín Texmelucan,Semiurbano,1,Mixto (Beca + Trabajo),8812.49,1801.59,,10824.17,372.61,2
+f5c78ddec644938c,24,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4156.73,752.73,9815.36,17905.59,283.81,2
+395c690dd109ec26,23,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Mixto (Beca + Trabajo),7668.02,1204.8,4220.73,8808.48,1829.71,2
+73635e7d5ddcb80e,21,Femenino,Puebla Capital,Urbano,0,Beca Pública,3873.13,498.61,13248.88,22127.63,849.77,2
+709f6c950753b0dc,18,Masculino,San Andrés Cholula,Urbano,1,Beca Pública,3120.51,555.33,13912.73,27394.86,1433.14,2
+1f6ebc80d41ac194,25,Masculino,Puebla Capital,Urbano,1,Apoyo Familiar,4658.5,994.26,6944.46,14292.26,2201.54,2
+4b12fceb96fc8258,26,Femenino,Teziutlán,Rural/Sierra,1,Beca Pública,3467.8,520.67,6052.16,12194.82,1302.53,2
+8d6e11499d724be9,20,Femenino,San José Chiapa (Ciudad Modelo),Semiurbano,1,Beca Pública,2644.81,557.77,6110.21,12887.02,1324.54,2
+3b00d0c6c9b75b14,27,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,6139.81,1054.84,6502.05,11408.27,1120.57,2
+efd951b36fb81468,26,Femenino,Atlixco,Semiurbano,1,Empleo Medio Tiempo,5801.09,1138.55,5412.03,11097.62,2636.61,2
+6cba8352255f18ae,18,Femenino,Puebla Capital,Urbano,0,Beca Pública,4957.28,873.51,10512.21,19129.98,1382.24,2
+8f5a143b430cfc4d,19,Masculino,Puebla Capital,Urbano,0,Empleo Medio Tiempo,2608.66,439.4,6281.27,12391.93,4302.98,2
+260510eeb91a4fb0,22,Masculino,Puebla Capital,Urbano,0,Apoyo Familiar,4919.5,1003.74,3939.25,7485.07,4098.56,2
+1c945607102b7c7e,19,Femenino,Teziutlán,Rural/Sierra,1,Apoyo Familiar,3628.66,579.18,15713.86,27492.49,409.78,2
+6a421bb4d7b86f22,21,Femenino,Tehuacán,Urbano,0,Empleo Medio Tiempo,4593.87,610.76,17571.19,30644.73,1069.21,2
+8c01c475c4525270,19,Femenino,Puebla Capital,Urbano,0,Apoyo Familiar,4733.37,1072.96,4678.55,8838.13,2359.17,2
+206b8fdb190fa3fc,21,Femenino,San Pedro Cholula,Urbano,1,Empleo Medio Tiempo,7376.52,1675.22,10956.59,17998.38,2678.97,2
+add2191ea8e0b457,25,Masculino,Tehuacán,Urbano,0,Mixto (Beca + Trabajo),7125.98,1010.67,15626.14,28110.68,2261.9,2
+4e4a81c341128fd9,23,Masculino,Puebla Capital,Urbano,0,Beca Pública,3134.75,656.67,9879.78,16176.31,1514.32,2

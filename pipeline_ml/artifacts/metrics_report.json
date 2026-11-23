@@ -1,0 +1,147 @@
+{
+    "unsupervised_kmeans": {
+        "n_clusters": 3,
+        "silhouette_score": 0.3201,
+        "davies_bouldin_index": 1.2984,
+        "pca_explained_variance": 0.6703,
+        "elbow_inertias": {
+            "k_2": 94345.27,
+            "k_3": 72443.11,
+            "k_4": 53823.47,
+            "k_5": 42953.21
+        },
+        "cluster_labels": {
+            "2": "Goteo Diario (Gasto Hormiga Escolar)",
+            "0": "Fuga Digital y Ocio Nocturno",
+            "1": "Gastos Esenciales y Fijos"
+        }
+    },
+    "supervised_random_forest": {
+        "cv_folds": 5,
+        "f1_macro_before_tuning": 0.5754,
+        "f1_macro_after_tuning": 0.6612,
+        "best_params": {
+            "class_weight": "balanced",
+            "max_depth": 8,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "test_accuracy": 0.975,
+        "test_f1_macro": 0.4968,
+        "test_roc_auc_ovr": 0.9873,
+        "feature_columns_num": [
+            "edad",
+            "es_foraneo",
+            "ingreso_mensual_mxn",
+            "meta_ahorro_mxn",
+            "gasto_acumulado_dia15_mxn",
+            "ratio_gasto_hormiga",
+            "velocidad_desgaste_quincenal",
+            "indice_presion_foraneo",
+            "ticket_promedio_mxn",
+            "pct_tx_nocturnas"
+        ],
+        "feature_columns_cat": [
+            "genero",
+            "zona_territorial",
+            "fuente_ingreso"
+        ]
+    },
+    "evaluation_details": {
+        "confusion_matrix": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                2,
+                0
+            ],
+            [
+                0,
+                3,
+                154
+            ]
+        ],
+        "classification_report": {
+            "0": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 1.0
+            },
+            "1": {
+                "precision": 0.3333333333333333,
+                "recall": 1.0,
+                "f1-score": 0.5,
+                "support": 2.0
+            },
+            "2": {
+                "precision": 1.0,
+                "recall": 0.9808917197452229,
+                "f1-score": 0.9903536977491961,
+                "support": 157.0
+            },
+            "accuracy": 0.975,
+            "macro avg": {
+                "precision": 0.4444444444444444,
+                "recall": 0.6602972399150743,
+                "f1-score": 0.4967845659163987,
+                "support": 160.0
+            },
+            "weighted avg": {
+                "precision": 0.9854166666666666,
+                "recall": 0.975,
+                "f1-score": 0.9780345659163986,
+                "support": 160.0
+            }
+        }
+    },
+    "seaes_equidad_audit": {
+        "criterio_rector": "Equidad Social y de Género (SEAES)",
+        "demographic_parity_difference_gender": 0.0079,
+        "cumple_umbral_equidad_menor_10pct": true,
+        "desglose_por_genero": {
+            "Femenino": {
+                "muestra_test": 84,
+                "exactitud_modelo": 0.9643,
+                "tasa_alerta_deficit": 0.9643,
+                "gasto_hormiga_promedio_mxn": 1711.63
+            },
+            "Masculino": {
+                "muestra_test": 72,
+                "exactitud_modelo": 1.0,
+                "tasa_alerta_deficit": 0.9722,
+                "gasto_hormiga_promedio_mxn": 1907.8
+            },
+            "No Binario": {
+                "muestra_test": 4,
+                "exactitud_modelo": 0.75,
+                "tasa_alerta_deficit": 0.75,
+                "gasto_hormiga_promedio_mxn": 2120.48
+            }
+        },
+        "desglose_territorial_puebla": {
+            "Rural/Sierra": {
+                "muestra_test": 11,
+                "exactitud_modelo": 1.0,
+                "ingreso_promedio_mxn": 5329.45,
+                "ratio_gasto_hormiga_medio": 0.3121
+            },
+            "Semiurbano": {
+                "muestra_test": 39,
+                "exactitud_modelo": 1.0,
+                "ingreso_promedio_mxn": 4769.35,
+                "ratio_gasto_hormiga_medio": 0.4036
+            },
+            "Urbano": {
+                "muestra_test": 110,
+                "exactitud_modelo": 0.9636,
+                "ingreso_promedio_mxn": 4962.88,
+                "ratio_gasto_hormiga_medio": 0.4151
+            }
+        }
+    }
+}

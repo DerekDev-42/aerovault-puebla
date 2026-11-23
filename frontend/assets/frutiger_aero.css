@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap');
+
+:root {
+    --neon-blue: #00f2fe;
+    --electric-azure: #38bdf8;
+    --ice-cyan: #a5f3fc;
+}
+
+html, body, [class*="css"] {
+    font-family: 'Outfit', sans-serif !important;
+    color: #e8fbf9 !important;
+    accent-color: #00f2fe !important;
+}
+
+header[data-testid="stHeader"] {
+    background: transparent !important;
+}
+
+/* Fondo arquitectónico de respaldo */
+.stApp {
+    background-color: #05181c !important;
+    background-image: 
+        radial-gradient(ellipse 75% 55% at 15% 20%, rgba(0, 242, 254, 0.22) 0%, transparent 65%),
+        linear-gradient(160deg, #092930 0%, #05191d 48%, #020d10 100%) !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+/* HUD Superior: Lámina de cristal ultrafina que deja ver la habitación detrás */
+.deluxe-hud {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(12, 42, 50, 0.16) 50%, rgba(0, 242, 254, 0.08) 100%);
+    backdrop-filter: blur(8px) saturate(135%);
+    -webkit-backdrop-filter: blur(8px) saturate(135%);
+    border: 1px solid rgba(165, 243, 252, 0.48);
+    border-top: 1.5px solid rgba(255, 255, 255, 0.85);
+    border-radius: 26px;
+    padding: 26px 34px;
+    box-shadow: 
+        0 18px 45px rgba(0, 0, 0, 0.28),
+        0 0 25px rgba(0, 242, 254, 0.15),
+        inset 0 1px 2px rgba(255, 255, 255, 0.55);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 22px;
+}
+
+.hud-badge {
+    display: inline-block;
+    padding: 5px 14px;
+    border-radius: 999px;
+    background: rgba(0, 242, 254, 0.12);
+    border: 1px solid rgba(165, 243, 252, 0.55);
+    color: #cffafe;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    text-shadow: 0 0 12px rgba(0, 242, 254, 0.8);
+}
+
+.hud-title {
+    font-family: 'Orbitron', sans-serif !important;
+    font-size: 2.25rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    background: linear-gradient(95deg, #ffffff 0%, #e0f2fe 45%, #00f2fe 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    filter: drop-shadow(0 0 22px rgba(0, 242, 254, 0.55));
+}
+
+.hud-pill-group {
+    display: flex;
+    gap: 12px;
+}
+
+.hud-pill {
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(0, 242, 254, 0.06));
+    border: 1px solid rgba(165, 243, 252, 0.52);
+    border-top: 1.5px solid rgba(255, 255, 255, 0.8);
+    border-radius: 16px;
+    padding: 10px 18px;
+    text-align: right;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22), inset 0 1px 1px rgba(255, 255, 255, 0.45);
+}
+
+/* Consolas Principales: Cristal transparente con filo luminoso superior */
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    background: linear-gradient(160deg, rgba(255, 255, 255, 0.08) 0%, rgba(6, 26, 32, 0.22) 100%) !important;
+    backdrop-filter: blur(9px) saturate(130%) !important;
+    -webkit-backdrop-filter: blur(9px) saturate(130%) !important;
+    border: 1px solid rgba(165, 243, 252, 0.42) !important;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.78) !important;
+    border-radius: 26px !important;
+    padding: 24px !important;
+    box-shadow: 
+        0 20px 50px rgba(0, 0, 0, 0.32),
+        0 0 25px rgba(0, 242, 254, 0.10),
+        inset 0 1px 1px rgba(255, 255, 255, 0.5) !important;
+}
+
+/* === CATEGORÍAS / PESTAÑAS: IDÉNTICAS A LAS CASILLAS DE CRISTAL === */
+[data-testid="stTabs"] [role="tablist"],
+div[data-baseweb="tab-list"] {
+    background: transparent !important;
+    border: none !important;
+    gap: 12px !important;
+    padding: 4px 0 !important;
+    margin-bottom: 20px !important;
+    flex-wrap: wrap !important;
+}
+
+/* Eliminar línea plana inferior de Streamlit */
+[data-testid="stTabs"] [data-baseweb="tab-highlight"],
+[data-testid="stTabs"] [data-baseweb="tab-border"],
+div[data-baseweb="tab-highlight"],
+div[data-baseweb="tab-border"] {
+    display: none !important;
+    opacity: 0 !important;
+    height: 0 !important;
+}
+
+/* Botones de pestaña con el mismo cristal biselado de los inputs */
+[data-testid="stTabs"] button[role="tab"],
+button[data-baseweb="tab"] {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.03) 100%) !important;
+    backdrop-filter: blur(6px) !important;
+    -webkit-backdrop-filter: blur(6px) !important;
+    border: 1px solid rgba(165, 243, 252, 0.38) !important;
+    border-top: 1.2px solid rgba(255, 255, 255, 0.72) !important;
+    border-radius: 12px !important;
+    padding: 10px 20px !important;
+    box-shadow: 
+        0 4px 16px rgba(0, 0, 0, 0.18),
+        inset 0 1px 1px rgba(255, 255, 255, 0.35) !important;
+    transition: all 0.28s ease !important;
+}
+
+[data-testid="stTabs"] button[role="tab"] p,
+[data-testid="stTabs"] button[role="tab"] div,
+button[data-baseweb="tab"] p {
+    font-family: 'Space Grotesk', sans-serif !important;
+    font-size: 0.80rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    color: #e0f2fe !important;
+    text-shadow: 0 0 10px rgba(0, 242, 254, 0.55) !important;
+    transition: all 0.28s ease !important;
+}
+
+/* Hover y Pestaña Activa: idéntico al brillo blanco/cian de "Gastado Día 15 ($)" */
+[data-testid="stTabs"] button[role="tab"]:hover,
+button[data-baseweb="tab"]:hover,
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"],
+button[data-baseweb="tab"][aria-selected="true"] {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.18) 0%, rgba(0, 242, 254, 0.22) 100%) !important;
+    border: 1px solid #ffffff !important;
+    border-top: 1.5px solid #ffffff !important;
+    box-shadow: 
+        0 0 24px rgba(0, 242, 254, 0.75),
+        inset 0 0 12px rgba(255, 255, 255, 0.55) !important;
+    transform: translateY(-1px) !important;
+}
+
+[data-testid="stTabs"] button[role="tab"]:hover p,
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"] p,
+button[data-baseweb="tab"]:hover p,
+button[data-baseweb="tab"][aria-selected="true"] p {
+    color: #ffffff !important;
+    text-shadow: 0 0 12px rgba(0, 242, 254, 0.9) !important;
+}
+
+/* === CASILLAS TRANSPARENTES TIPO LÁMINA DE VIDRIO === */
+div[data-baseweb="input"],
+div[data-baseweb="base-input"],
+div[data-baseweb="select"] > div,
+div[data-testid="stNumberInput"] > div {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.03) 100%) !important;
+    backdrop-filter: blur(6px) !important;
+    -webkit-backdrop-filter: blur(6px) !important;
+    border: 1px solid rgba(165, 243, 252, 0.38) !important;
+    border-top: 1.2px solid rgba(255, 255, 255, 0.72) !important;
+    border-radius: 12px !important;
+    box-shadow: 
+        0 4px 16px rgba(0, 0, 0, 0.18),
+        inset 0 1px 1px rgba(255, 255, 255, 0.35) !important;
+    transition: all 0.28s ease !important;
+}
+
+/* Forzar transparencia total en todas las capas internas de los inputs */
+div[data-baseweb="input"] div,
+div[data-baseweb="base-input"] div,
+div[data-baseweb="select"] div,
+div[data-testid="stNumberInput"] div,
+div[data-baseweb="input"] input,
+div[data-baseweb="base-input"] input,
+div[data-testid="stNumberInput"] input,
+div[data-testid="stNumberInput"] button {
+    background: transparent !important;
+    background-color: transparent !important;
+    color: #ffffff !important;
+    font-weight: 500 !important;
+}
+
+/* Brillo intenso y destello al pasar cursor o enfocar casillas */
+div[data-baseweb="input"]:hover,
+div[data-baseweb="select"] > div:hover,
+div[data-testid="stNumberInput"] > div:hover,
+div[data-baseweb="input"]:focus-within,
+div[data-baseweb="select"] > div:focus-within,
+div[data-testid="stNumberInput"] > div:focus-within {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.18) 0%, rgba(0, 242, 254, 0.22) 100%) !important;
+    border-color: #ffffff !important;
+    box-shadow: 
+        0 0 24px rgba(0, 242, 254, 0.75),
+        inset 0 0 12px rgba(255, 255, 255, 0.55) !important;
+}
+
+label, .stRadio label p, .stSelectbox label p, .stNumberInput label p, .stTextInput label p {
+    font-family: 'Space Grotesk', sans-serif !important;
+    color: #e0f2fe !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.09em !important;
+    text-transform: uppercase !important;
+    text-shadow: 0 0 10px rgba(0, 242, 254, 0.65) !important;
+}
+
+/* Tabla transparente */
+div[data-testid="stDataFrame"],
+div[data-testid="stDataEditor"] {
+    background: rgba(255, 255, 255, 0.06) !important;
+    backdrop-filter: blur(8px) !important;
+    border: 1px solid rgba(165, 243, 252, 0.45) !important;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.75) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.25) !important;
+}
+
+.glass-panel {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.09) 0%, rgba(10, 36, 44, 0.24) 100%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(165, 243, 252, 0.42);
+    border-top: 1.2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 20px 24px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+    margin-bottom: 16px;
+}
+
+/* === BOTÓN DELUXE CON DESTELLO ESTELAR BIOLUMINISCENTE === */
+div.stButton > button {
+    position: relative !important;
+    overflow: hidden !important;
+    background: 
+        radial-gradient(circle at 92% 18%, rgba(255, 255, 255, 0.95) 0%, rgba(0, 242, 254, 0.65) 14%, transparent 42%),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.16) 0%, rgba(0, 242, 254, 0.24) 55%, rgba(14, 165, 233, 0.30) 100%) !important;
+    backdrop-filter: blur(12px) !important;
+    border: 1.5px solid #a5f3fc !important;
+    border-top: 2px solid #ffffff !important;
+    border-radius: 16px !important;
+    padding: 0.85rem 2rem !important;
+    color: #ffffff !important;
+    font-family: 'Orbitron', sans-serif !important;
+    font-size: 0.92rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.08em !important;
+    box-shadow: 
+        0 8px 28px rgba(0, 0, 0, 0.32),
+        0 0 26px rgba(0, 242, 254, 0.55),
+        inset 0 1px 3px rgba(255, 255, 255, 0.85) !important;
+    transition: all 0.35s cubic-bezier(0.22, 1, 0.36, 1) !important;
+}
+
+/* Destello luminoso en estrella en la esquina superior derecha del botón */
+div.stButton > button::after {
+    content: "✦";
+    position: absolute;
+    top: -4px;
+    right: 10px;
+    font-size: 1.35rem;
+    color: #ffffff;
+    text-shadow: 0 0 12px #ffffff, 0 0 24px #00f2fe, 0 0 36px #00f2fe;
+    pointer-events: none;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+div.stButton > button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 65%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+    transform: skewX(-25deg);
+    transition: left 0.55s ease;
+}
+
+div.stButton > button:hover::before {
+    left: 140%;
+}
+
+div.stButton > button:hover::after {
+    transform: rotate(90deg) scale(1.25);
+}
+
+div.stButton > button:hover {
+    transform: translateY(-2px) scale(1.01) !important;
+    border-color: #ffffff !important;
+    background: 
+        radial-gradient(circle at 92% 18%, rgba(255, 255, 255, 1) 0%, rgba(0, 242, 254, 0.85) 20%, transparent 50%),
+        linear-gradient(135deg, rgba(0, 242, 254, 0.45) 0%, rgba(56, 189, 248, 0.42) 100%) !important;
+    box-shadow: 
+        0 12px 35px rgba(0, 0, 0, 0.4),
+        0 0 42px rgba(0, 242, 254, 0.95),
+        inset 0 1px 5px rgba(255, 255, 255, 1) !important;
+}
+
+div.stButton > button p {
+    color: #ffffff !important;
+    text-shadow: 0 0 12px rgba(0, 242, 254, 0.85);
+}
+
+/* Métricas estilo lámina de cristal transparente */
+div[data-testid="stMetric"] {
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0.09), rgba(8, 32, 38, 0.20));
+    border: 1px solid rgba(165, 243, 252, 0.42);
+    border-top: 1.5px solid rgba(255, 255, 255, 0.72);
+    border-radius: 18px;
+    padding: 14px 18px;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22), inset 0 1px 1px rgba(255, 255, 255, 0.45);
+}

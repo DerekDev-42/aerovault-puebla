@@ -1,0 +1,50 @@
+{
+    "unsupervised_kmeans": {
+        "n_clusters": 3,
+        "silhouette_score": 0.3201,
+        "davies_bouldin_index": 1.2984,
+        "pca_explained_variance": 0.6703,
+        "elbow_inertias": {
+            "k_2": 94345.27,
+            "k_3": 72443.11,
+            "k_4": 53823.47,
+            "k_5": 42953.21
+        },
+        "cluster_labels": {
+            "2": "Goteo Diario (Gasto Hormiga Escolar)",
+            "0": "Fuga Digital y Ocio Nocturno",
+            "1": "Gastos Esenciales y Fijos"
+        }
+    },
+    "supervised_random_forest": {
+        "cv_folds": 5,
+        "f1_macro_before_tuning": 0.5754,
+        "f1_macro_after_tuning": 0.6612,
+        "best_params": {
+            "class_weight": "balanced",
+            "max_depth": 8,
+            "min_samples_split": 5,
+            "n_estimators": 100
+        },
+        "test_accuracy": 0.975,
+        "test_f1_macro": 0.4968,
+        "test_roc_auc_ovr": 0.9873,
+        "feature_columns_num": [
+            "edad",
+            "es_foraneo",
+            "ingreso_mensual_mxn",
+            "meta_ahorro_mxn",
+            "gasto_acumulado_dia15_mxn",
+            "ratio_gasto_hormiga",
+            "velocidad_desgaste_quincenal",
+            "indice_presion_foraneo",
+            "ticket_promedio_mxn",
+            "pct_tx_nocturnas"
+        ],
+        "feature_columns_cat": [
+            "genero",
+            "zona_territorial",
+            "fuente_ingreso"
+        ]
+    }
+}
