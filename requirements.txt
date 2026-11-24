@@ -26,3 +26,4 @@ requests
 
 # IA Generativa (Tecnología Emergente)
 google-genai
+psycopg[binary]
