@@ -1,15 +1,15 @@
 import streamlit as st
 
 
-def _get_aero_cube_plant_svg(risk: int) -> str:
+def _get_aero_cube_plant_svg(risk_class: int) -> str:
     """Genera un ícono SVG Frutiger Aero de un dado de cristal con una plantita brotando."""
-    if risk == 0:  # Óptimo
+    if risk_class == 0:  # Óptimo
         cube_stroke = "#7ef9ff"
         cube_fill = "rgba(126, 249, 255, 0.22)"
         leaf_main = "#39ff88"
         leaf_shadow = "#14b866"
         glow = "rgba(0, 240, 255, 0.40)"
-    elif risk == 1:  # Semi-Turbio (Precaución)
+    elif risk_class == 1:  # Semi-Turbio (Precaución)
         cube_stroke = "#ffe680"
         cube_fill = "rgba(255, 230, 128, 0.20)"
         leaf_main = "#a3ff57"
@@ -43,23 +43,23 @@ def _get_aero_cube_plant_svg(risk: int) -> str:
 
 
 def render_aquarium_widget(
-    risk: int,
+    risk_class: int,
     status_text: str,
     ratio_hormiga: float,
     meta_usd: float,
     exchange_rate: float,
 ) -> None:
-    if risk == 0:
+    if risk_class == 0:
         css_class = "status-optimal"
         desc = "Agua cristalina: Tu ritmo de gasto está alineado con tu meta de ahorro mensual."
-    elif risk == 1:
+    elif risk_class == 1:
         css_class = "status-warning"
         desc = "Agua semi-turbia: Llegarás a fin de mes sin deuda, pero las fugas diarias están frenando tu meta de ahorro."
     else:
         css_class = "status-critical"
         desc = "Alerta de turbidez crítica: Alta probabilidad de déficit antes de la segunda quincena."
 
-    icon_svg = _get_aero_cube_plant_svg(risk)
+    icon_svg = _get_aero_cube_plant_svg(risk_class)
 
     html_block = f"""
     <div class="aquarium-box {css_class}">
