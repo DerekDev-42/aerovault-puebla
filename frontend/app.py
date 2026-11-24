@@ -273,13 +273,58 @@ if st.session_state.active_section == 0:
                     {"concepto": "Internet y material estudio", "monto_mxn": 450.0, "hora_decimal": 16.0, "dia_semana": 0, "frecuencia_mensual": 1},
                 ])
 
-            edited_tx = st.data_editor(default_tx, num_rows="dynamic", use_container_width=True)
+            st.caption("Haz doble clic en una celda para editar, usa **+** abajo para agregar o selecciona una fila a la izquierda y presiona **Supr/Delete** para borrarla.")
+            edited_tx = st.data_editor(
+                default_tx,
+                num_rows="dynamic",
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "concepto": st.column_config.TextColumn(
+                        "Concepto del Gasto",
+                        help="Descripción breve de la compra o servicio",
+                        required=True,
+                    ),
+                    "monto_mxn": st.column_config.NumberColumn(
+                        "Monto ($ MXN)",
+                        min_value=1.0,
+                        step=5.0,
+                        format="$%.2f",
+                        required=True,
+                    ),
+                    "hora_decimal": st.column_config.NumberColumn(
+                        "Hora del Día (0–23.9 hrs)",
+                        help="Formato 24h en decimal (ej. 9.5 = 9:30 AM, 22.5 = 10:30 PM)",
+                        min_value=0.0,
+                        max_value=23.99,
+                        step=0.5,
+                        required=True,
+                    ),
+                    "dia_semana": st.column_config.SelectboxColumn(
+                        "Día (0=Lun .. 6=Dom)",
+                        help="0: Lunes, 1: Martes, 2: Miércoles, 3: Jueves, 4: Viernes, 5: Sábado, 6: Domingo",
+                        options=[0, 1, 2, 3, 4, 5, 6],
+                        required=True,
+                    ),
+                    "frecuencia_mensual": st.column_config.NumberColumn(
+                        "Veces al Mes",
+                        min_value=1,
+                        step=1,
+                        required=True,
+                    ),
+                },
+            )
             run_btn = st.button("EJECUTAR INFERENCIA EN NÚCLEO AERO", type="primary", use_container_width=True)
 
     with col_res:
         with st.container(border=True):
             st.markdown("### Telemetría del Núcleo Financiero")
             if run_btn:
+                clean_tx = edited_tx.dropna(subset=["concepto", "monto_mxn"]).copy()
+                clean_tx["hora_decimal"] = clean_tx["hora_decimal"].fillna(12.0)
+                clean_tx["dia_semana"] = clean_tx["dia_semana"].fillna(0).astype(int)
+                clean_tx["frecuencia_mensual"] = clean_tx["frecuencia_mensual"].fillna(1).astype(int)
+
                 payload = {
                     "student_alias": alias,
                     "edad": int(edad),
@@ -291,7 +336,7 @@ if st.session_state.active_section == 0:
                     "ingreso_mensual_mxn": float(ingreso),
                     "meta_ahorro_mxn": float(meta),
                     "gasto_acumulado_dia15_mxn": float(gasto_d15),
-                    "transacciones": edited_tx.to_dict(orient="records"),
+                    "transacciones": clean_tx.to_dict(orient="records"),
                 }
                 try:
                     resp = requests.post(f"{BACKEND_URL}/api/v1/analyze-finances", json=payload, timeout=15)
